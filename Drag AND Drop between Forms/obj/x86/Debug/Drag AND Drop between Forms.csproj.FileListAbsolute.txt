@@ -1547,3 +1547,90 @@ C:\Users\luis\Desktop\Bal LUIS COCO2\Bal LUIS COCO2\Bal LUIS COCO\Drag AND Drop 
 C:\Users\luis\Desktop\Bal LUIS COCO2\Bal LUIS COCO2\Bal LUIS COCO\Drag AND Drop between Forms\obj\x86\Debug\Drag_AND_Drop_between_Forms.Diagrama_Mollier.resources
 C:\Users\luis\Desktop\Bal LUIS COCO2\Bal LUIS COCO2\Bal LUIS COCO\Drag AND Drop between Forms\obj\x86\Debug\ZedGraphSample.Tablaluis.resources
 C:\Users\luis\Desktop\Bal LUIS COCO2\Bal LUIS COCO2\Bal LUIS COCO\Drag AND Drop between Forms\obj\x86\Debug\Drag AND Drop between Forms.csproj.GenerateResource.Cache
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Drag AND Drop between Forms.csprojAssemblyReference.cache
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Drag AND Drop between Forms.csproj.ResolveComReference.cache
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Bifasico.BifasicoPressureDropCalc.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Bifasico.BifasicoBoilingHeatCal.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Bifasico.BifasicoCondensationHeatCal.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\HeatExchangers.HeatExchangerLiqLiq.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Monofasico.MonofasicoFluidCal.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Drag_AND_Drop_between_Forms.Analisis_Sensibilidad.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Drag_AND_Drop_between_Forms.Atemperador.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Drag_AND_Drop_between_Forms.ListaDesaireador.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Drag_AND_Drop_between_Forms.About.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Drag_AND_Drop_between_Forms.Datosgenerales.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\CompiladorLUISCOCO.FormMain.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Dalssoft.TestForm.About.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Dalssoft.DiagramNet.Designer.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Dalssoft.TestForm.Form2.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Drag_AND_Drop_between_Forms.EnfriadorDrenajes.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Drag_AND_Drop_between_Forms.Intercambiador.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Drag_AND_Drop_between_Forms.ListaTurbinas10.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Drag_AND_Drop_between_Forms.ListaSepHumedad.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Drag_AND_Drop_between_Forms.ListaMSR.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Drag_AND_Drop_between_Forms.ListaCondensador.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Drag_AND_Drop_between_Forms.ListaMezclador.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Drag_AND_Drop_between_Forms.ListaDivisor.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Drag_AND_Drop_between_Forms.ListaDivisorEntalpiaFija.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Drag_AND_Drop_between_Forms.ListaReactor.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Drag_AND_Drop_between_Forms.ListaPerdidaCarga.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Drag_AND_Drop_between_Forms.ListaBomba.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Drag_AND_Drop_between_Forms.ListaTurbina9.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Drag_AND_Drop_between_Forms.ListaCalentador7.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Drag_AND_Drop_between_Forms.ListaValvula19.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Drag_AND_Drop_between_Forms.ListaIntercambiador22.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Drag_AND_Drop_between_Forms.ListaDrainageCooling16.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Drag_AND_Drop_between_Forms.ListaFlashTank21.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Drag_AND_Drop_between_Forms.ListaAtemperador17.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Drag_AND_Drop_between_Forms.ListaTurbinaAuxiliar11.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\DasslInterface.Form1Dassl.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\DotNumerics.LinearAlgebra.MatrixView.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Drag_AND_Drop_between_Forms.DotNumerics.Prueba.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Drag_AND_Drop_between_Forms.TurbinaAuxiliar.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Drag_AND_Drop_between_Forms.Reactor.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Drag_AND_Drop_between_Forms.Desaireador.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Drag_AND_Drop_between_Forms.ListaCondContorno.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Drag_AND_Drop_between_Forms.Ejemplos.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Drag_AND_Drop_between_Forms.ExplicacionMetodoCalculo.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Drag_AND_Drop_between_Forms.ExplicacionFactorIteraciones.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Drag_AND_Drop_between_Forms.EscribirarchivoHbal.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Drag_AND_Drop_between_Forms.Resultadoshbal.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Tablas_Vapor_ASME3.Region_3.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Tablas_Vapor_ASME4.Region_4.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Tablas_Vapor_ASMEBorder.Region_Border.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Tablas_Vapor_ASME1.Region1.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Tablas_Vapor_ASME2.Region2.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Tablas_Vapor_ASME5.Region5.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Tablas_Vapor_ASME.RegionSelection.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Drag_AND_Drop_between_Forms.CalculoCondensador.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Drag_AND_Drop_between_Forms.Condcontorno.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Drag_AND_Drop_between_Forms.Calentador.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Drag_AND_Drop_between_Forms.Condensadorprincipal.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Drag_AND_Drop_between_Forms.Bomba.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Drag_AND_Drop_between_Forms.Divisorentalpiafija.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Drag_AND_Drop_between_Forms.Valvula.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Drag_AND_Drop_between_Forms.Turbina10.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Drag_AND_Drop_between_Forms.Condensador.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Drag_AND_Drop_between_Forms.TanqueVaporizacion.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Files_in_csharp.LecturaHbal.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Drag_AND_Drop_between_Forms.MSR.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Drag_AND_Drop_between_Forms.Turbina.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Drag_AND_Drop_between_Forms.Mezclador.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Drag_AND_Drop_between_Forms.Sephumedad.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Drag_AND_Drop_between_Forms.Perdidacarga.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Drag_AND_Drop_between_Forms.Divisor.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Drag_AND_Drop_between_Forms.Paletaequipos.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Drag_AND_Drop_between_Forms.Aplicacion.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Drag_AND_Drop_between_Forms.Listados.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\WindowsFormsApplication2.Motorcalculo.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Drag_AND_Drop_between_Forms.Properties.Resources.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\TablasAgua1967.ASME1967.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Drag_AND_Drop_between_Forms.Diagrama_Mollier.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\ZedGraphSample.Tablaluis.resources
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Drag AND Drop between Forms.csproj.GenerateResource.cache
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Drag AND Drop between Forms.exe
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Drag AND Drop between Forms.pdb
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\bin\Debug\Drag AND Drop between Forms.exe
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\bin\Debug\Drag AND Drop between Forms.pdb
+C:\Bal LUIS COCO2\Drag AND Drop between Forms\obj\x86\Debug\Drag AND Drop between Forms.csproj.CopyComplete
