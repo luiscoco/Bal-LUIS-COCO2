@@ -1,0 +1,1598 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{2F4AE5AC-70B1-4F2D-8739-540E51E512B9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Drag_AND_Drop_between_Forms</RootNamespace>
+    <AssemblyName>Drag AND Drop between Forms</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Debug\Drag AND Drop between Forms.exe.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;c:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisRuleDirectories>;c:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+    <CodeAnalysisFailOnMissingRules>false</CodeAnalysisFailOnMissingRules>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Release\Drag AND Drop between Forms.exe.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;c:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisRuleDirectories>;c:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+    <CodeAnalysisFailOnMissingRules>false</CodeAnalysisFailOnMissingRules>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="ZedGraph">
+      <HintPath>bin\Debug\ZedGraph.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Compilador C#\Command.cs" />
+    <Compile Include="Compilador C#\Command1.cs" />
+    <Compile Include="Compilador C#\Command2.cs" />
+    <Compile Include="Tesis Doctoral\BifasicoPressureDropCalc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tesis Doctoral\BifasicoPressureDropCalc.designer.cs">
+      <DependentUpon>BifasicoPressureDropCalc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tesis Doctoral\BifasicoBoilingHeatCal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tesis Doctoral\BifasicoBoilingHeatCal.designer.cs">
+      <DependentUpon>BifasicoBoilingHeatCal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tesis Doctoral\BifasicoCondensationHeatCal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tesis Doctoral\BifasicoCondensationHeatCal.designer.cs">
+      <DependentUpon>BifasicoCondensationHeatCal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tesis Doctoral\Clases de Calculo\Bi-Phase Boiling.cs" />
+    <Compile Include="Tesis Doctoral\Clases de Calculo\Bi-Phase PressureDrop.cs" />
+    <Compile Include="Tesis Doctoral\Clases de Calculo\Heat Exchanger Transitory.cs" />
+    <Compile Include="Tesis Doctoral\Clases de Calculo\Heat Exchanger Nominal Diferencias Finitas.cs" />
+    <Compile Include="Tesis Doctoral\Clases de Calculo\Heat Exchanger Transitory Condenser.cs" />
+    <Compile Include="Tesis Doctoral\Clases de Calculo\Heat Exchanger PreDesign.cs" />
+    <Compile Include="Tesis Doctoral\Clases de Calculo\Heat Exchanger Nominal.cs" />
+    <Compile Include="Tesis Doctoral\Intercambiador Liq-Liq.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tesis Doctoral\Intercambiador Liq-Liq.designer.cs">
+      <DependentUpon>Intercambiador Liq-Liq.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tesis Doctoral\Clases de Calculo\Monofasic.cs" />
+    <Compile Include="Tesis Doctoral\MonofasicoFluidCal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tesis Doctoral\MonofasicoFluidCal.designer.cs">
+      <DependentUpon>MonofasicoFluidCal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MotorCalculo\Form1Dassl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MotorCalculo\Form1Dassl.designer.cs">
+      <DependentUpon>Form1Dassl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MotorCalculo\Iterative Methods for Linear Systems\ClassJacobi.cs" />
+    <Compile Include="MotorCalculo\Analisis Sensibilidad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MotorCalculo\Analisis Sensibilidad.Designer.cs">
+      <DependentUpon>Analisis Sensibilidad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Equipos\17 Atemperador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Equipos\17 Atemperador.Designer.cs">
+      <DependentUpon>17 Atemperador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Equipos\Resultados Equipos\ClassDesaireador18.cs" />
+    <Compile Include="Equipos\Resultados Equipos\ClassDivisorEntalpiaFija20.cs" />
+    <Compile Include="Equipos\Resultados Equipos\ClassIntercambiador22.cs" />
+    <Compile Include="Equipos\Resultados Equipos\ClassTanqueVaporizacion21.cs" />
+    <Compile Include="Equipos\Resultados Equipos\ClassValvula19.cs" />
+    <Compile Include="Equipos\Lista Equipos\18 Lista Desaireador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Equipos\Lista Equipos\18 Lista Desaireador.designer.cs">
+      <DependentUpon>18 Lista Desaireador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="About.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="About.Designer.cs">
+      <DependentUpon>About.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AplicacionGenEcua.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AplicacionGenParam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AplicacionGenCondInic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Datosgenerales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Datosgenerales.Designer.cs">
+      <DependentUpon>Datosgenerales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Compilador C#\FormMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Diagram.Net Library\Diagam.Net\About.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Designer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\DiagramUtil.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Document.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\ElementCollection.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\actions\DesignerAction.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\actions\EditLabelAction.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\actions\MoveAction.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\actions\ResizeAction.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\Arrow.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\BaseElement.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\BaseLinkElement.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\CommentBoxElement.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\ConnectorElement.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\controllers\CommentBoxController.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\controllers\ConnectorController.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\controllers\ControllerHelper.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\controllers\RectangleController1.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\controllers\elementResultsControllers\BombaResultadosController.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\controllers\elementResultsControllers\ArcoResultadosController.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\controllers\elementResultsControllers\CalentadorResultadosController.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\controllers\elementResultsControllers\CondensadorResultadosController.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\controllers\elementResultsControllers\CondensadorSellosResultadosController.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\controllers\elementResultsControllers\CirculoResultadosController.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\controllers\elementResultsControllers\DesaireadorResultadosController.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\controllers\elementResultsControllers\RectanguloRedondeadoResultadosController.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\controllers\elementResultsControllers\RectanguloResultadosController.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\controllers\elementResultsControllers\GeneradorResultadosController.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\controllers\elementResultsControllers\ValvulaResultadosController.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\controllers\elementResultsControllers\SeparadorHumedadResultadosController.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\controllers\elementResultsControllers\TurbinaResultadosAltaController.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\controllers\elementResultsControllers\TurbinaResultadosController.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\controllers\ImageController.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\controllers\ElipseController.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\controllers\IControllable.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\controllers\IController.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\controllers\ILabelController.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\controllers\IMoveController.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\controllers\IResizeController.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\controllers\LineController.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\controllers\RectangleController.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\controllers\RightAngleLinkController.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\controllers\TurbinaController.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\elementsResults\BombaElementResultados.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\elementsResults\ArcoElementResultados.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\elementsResults\CalentadorElementResultados.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\elementsResults\CondensadorElementResultados.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\elementsResults\CondensadorSellosElementResultados.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\elementsResults\CirculoElementResultados.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\elementsResults\elementResultsNodes\BombaResultadosNode.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\elementsResults\elementResultsNodes\CalentadorResultadosNode.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\elementsResults\elementResultsNodes\CondensadorResultadosNode.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\elementsResults\elementResultsNodes\CondensadorSellosResultadosNode.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\elementsResults\elementResultsNodes\ValvulaResultadosNode.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\elementsResults\elementResultsNodes\DesaireadorResultadosNode.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\elementsResults\elementResultsNodes\SeparadorHumedadResultadosNode.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\elementsResults\LineaElementResultados.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\elementsResults\DesaireadorElementResultados.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\elementsResults\elementResultsNodes\TurbinaAltaResultadosNode.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\elementsResults\elementResultsNodes\TurbinaResultadosNode.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\elementsResults\RectanguloRedondeadoElementResultados.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\elementsResults\RectánguloElementResultados.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\elementsResults\GeneradorElementResultados.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\elementsResults\ValvulaElementResultados.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\elementsResults\SeparadorHumedadElementResultados.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\elementsResults\TurbinaElementAltaResultados.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\elementsResults\TurbinaElementResultados.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\ImagenNode.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\ElipseElement.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\ElipseNode.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\ILabelElement.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\ImageElement.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\LabelElement.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\LineElement.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\NodeElement.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\RectangleElement.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\RectangleNode.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\RightAngleLinkElement.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\StraightLinkElement.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\TurbinaNode.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\TurbinaElement.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\Vector.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\events\ElementConnectEventArgs.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\events\ElementEventArgs.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\events\ElementMouseEventArgs.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\events\ElementSelectionEventArgs.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\GeneralEnums.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\IContainer.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Codigo\UndoManager.cs" />
+    <Compile Include="Diagram.Net Library\Diagam.Net\Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Equipos\16 Enfriador de Drenajes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Equipos\16 Enfriador de Drenajes.Designer.cs">
+      <DependentUpon>16 Enfriador de Drenajes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Equipos\22 Intercambiador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Equipos\22 Intercambiador.Designer.cs">
+      <DependentUpon>22 Intercambiador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Equipos\Lista Equipos\10 ListaTurbinas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Equipos\Lista Equipos\10 ListaTurbinas.Designer.cs">
+      <DependentUpon>10 ListaTurbinas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Equipos\Lista Equipos\13 Lista SepHumedad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Equipos\Lista Equipos\13 Lista SepHumedad.Designer.cs">
+      <DependentUpon>13 Lista SepHumedad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Equipos\Lista Equipos\14 Lista MSR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Equipos\Lista Equipos\14 Lista MSR.Designer.cs">
+      <DependentUpon>14 Lista MSR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Equipos\Lista Equipos\15 Lista Condensador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Equipos\Lista Equipos\15 Lista Condensador.Designer.cs">
+      <DependentUpon>15 Lista Condensador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Equipos\Lista Equipos\5 Lista Mezclador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Equipos\Lista Equipos\5 Lista Mezclador.Designer.cs">
+      <DependentUpon>5 Lista Mezclador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Equipos\Lista Equipos\2 Lista Divisor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Equipos\Lista Equipos\2 Lista Divisor.Designer.cs">
+      <DependentUpon>2 Lista Divisor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Equipos\Lista Equipos\20 Lista Divisor Entalpia Fija.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Equipos\Lista Equipos\20 Lista Divisor Entalpia Fija.Designer.cs">
+      <DependentUpon>20 Lista Divisor Entalpia Fija.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Equipos\Lista Equipos\6 Lista Reactor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Equipos\Lista Equipos\6 Lista Reactor.Designer.cs">
+      <DependentUpon>6 Lista Reactor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Equipos\Lista Equipos\3 Lista Perdidas Carga.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Equipos\Lista Equipos\3 Lista Perdidas Carga.Designer.cs">
+      <DependentUpon>3 Lista Perdidas Carga.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Equipos\Lista Equipos\4 Lista Bomba.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Equipos\Lista Equipos\4 Lista Bomba.Designer.cs">
+      <DependentUpon>4 Lista Bomba.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Equipos\Lista Equipos\9 Lista Turbina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Equipos\Lista Equipos\9 Lista Turbina.Designer.cs">
+      <DependentUpon>9 Lista Turbina.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Equipos\Lista Equipos\7 Lista Calentador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Equipos\Lista Equipos\7 Lista Calentador.Designer.cs">
+      <DependentUpon>7 Lista Calentador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Equipos\Lista Equipos\19 Lista Valvula.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Equipos\Lista Equipos\19 Lista Valvula.Designer.cs">
+      <DependentUpon>19 Lista Valvula.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Equipos\Lista Equipos\22 Lista Intercambiador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Equipos\Lista Equipos\22 Lista Turbina.Designer.cs">
+      <DependentUpon>22 Lista Intercambiador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Equipos\Lista Equipos\16 Lista Enfriador Drenajes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Equipos\Lista Equipos\16 Lista Enfriador Drenajes.Designer.cs">
+      <DependentUpon>16 Lista Enfriador Drenajes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Equipos\Lista Equipos\21 Lista Tanque de Vaporizacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Equipos\Lista Equipos\21 Lista Tanque de Vaporizacion.Designer.cs">
+      <DependentUpon>21 Lista Tanque de Vaporizacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Equipos\Lista Equipos\17 Lista Atemperador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Equipos\Lista Equipos\17 Lista Atemperador.Designer.cs">
+      <DependentUpon>17 Lista Atemperador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Equipos\Lista Equipos\11 Lista Turbina Auxiliar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Equipos\Lista Equipos\11 Lista Turbina Auxiliar.Designer.cs">
+      <DependentUpon>11 Lista Turbina Auxiliar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Equipos\Resultados Equipos\ClassContorno1.cs" />
+    <Compile Include="Equipos\Resultados Equipos\ClassDivisor2.cs" />
+    <Compile Include="Equipos\Resultados Equipos\ClassPerdidaCarga3.cs" />
+    <Compile Include="Equipos\Resultados Equipos\ClassBomba4.cs" />
+    <Compile Include="Equipos\Resultados Equipos\ClassMezclador5.cs" />
+    <Compile Include="Equipos\Resultados Equipos\ClassReactor6.cs" />
+    <Compile Include="Equipos\Resultados Equipos\ClassCalentador7.cs" />
+    <Compile Include="Equipos\Resultados Equipos\ClassCondensador8.cs" />
+    <Compile Include="Equipos\Resultados Equipos\ClassTurbina10.cs" />
+    <Compile Include="Equipos\Resultados Equipos\ClassTurbina11.cs" />
+    <Compile Include="Equipos\Resultados Equipos\ClassSeparadorHumedad13.cs" />
+    <Compile Include="Equipos\Resultados Equipos\ClassMSR14.cs" />
+    <Compile Include="Equipos\Resultados Equipos\ClassCondensador15.cs" />
+    <Compile Include="Equipos\Resultados Equipos\ClassEnfriadorDrenajes16.cs" />
+    <Compile Include="Equipos\Resultados Equipos\ClassAtemperador17.cs" />
+    <Compile Include="MotorCalculo\EquiposAnalisisSensibilidad.cs" />
+    <Compile Include="MotorCalculo\Iterative Methods for Linear Systems\ClassGaussSeidel.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\Complex.cs" />
+    <Compile Include="MotorCalculo\FortranLib\Characters.cs" />
+    <Compile Include="MotorCalculo\FortranLib\CommonBlock.cs" />
+    <Compile Include="MotorCalculo\FortranLib\ConsoleLib.cs" />
+    <Compile Include="MotorCalculo\FortranLib\FortranLib.cs" />
+    <Compile Include="MotorCalculo\FortranLib\Obool.cs" />
+    <Compile Include="MotorCalculo\FortranLib\Ochar.cs" />
+    <Compile Include="MotorCalculo\FortranLib\Odouble.cs" />
+    <Compile Include="MotorCalculo\FortranLib\Ofloat.cs" />
+    <Compile Include="MotorCalculo\FortranLib\Oint.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\BandMatrix.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\BaseBandMatrix.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\BaseMatrix.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\ComplexMatrix.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\ComplexVector.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSEispack\cbabk2.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSEispack\cbal.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSEispack\cdiv.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSEispack\cg.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSEispack\comqr.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSEispack\comqr2.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSEispack\corth.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSEispack\csroot.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSEispack\pythag.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dasum.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\daxpy.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dbdsdc.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dbdsqr.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dcopy.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\ddisna.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\ddot.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dgbsv.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dgbtf2.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dgbtrf.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dgbtrs.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dgebak.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dgebal.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dgebd2.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dgebrd.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dgeev.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dgehd2.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dgehrd.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dgelq2.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dgelqf.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dgels.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dgelsd.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dgelsy.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dgemm.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dgemv.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dgeqp3.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dgeqpf.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dgeqr2.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dgeqrf.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dger.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dgerq2.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dgerqf.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dgesdd.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dgesv.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dgesvd.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dgetf2.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dgetrf.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dgetri.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dgetrs.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dggglm.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dgglse.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dggqrf.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dggrqf.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dggsvd.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dggsvp.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dgtsv.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dhseqr.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlabad.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlabrd.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlacon.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlacpy.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dladiv.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlae2.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlaed0.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlaed1.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlaed2.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlaed3.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlaed4.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlaed5.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlaed6.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlaed7.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlaed8.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlaed9.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlaeda.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlaev2.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlaexc.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlags2.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlahqr.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlahr2.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlaic1.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlaln2.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlals0.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlalsa.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlalsd.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlamch.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlamrg.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlange.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlansb.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlanst.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlansy.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlantr.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlanv2.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlapll.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlapmt.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlapy2.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlaqp2.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlaqps.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlaqr0.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlaqr1.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlaqr2.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlaqr3.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlaqr4.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlaqr5.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlar2v.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlarf.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlarfb.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlarfg.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlarft.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlarfx.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlargv.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlartg.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlartv.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlarz.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlarzb.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlarzt.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlas2.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlascl.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlasd0.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlasd1.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlasd2.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlasd3.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlasd4.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlasd5.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlasd6.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlasd7.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlasd8.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlasda.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlasdq.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlasdt.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlaset.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlasq1.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlasq2.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlasq5.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlasq6.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlasr.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlasrt.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlassq.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlasv2.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlaswp.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlasy2.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlatrd.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlatrs.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlatrz.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlazq3.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dlazq4.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dnrm2.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dorg2l.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dorg2r.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dorgbr.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dorghr.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dorgl2.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dorglq.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dorgql.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dorgqr.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dorgtr.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dorm2l.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dorm2r.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dormbr.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dorml2.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dormlq.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dormql.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dormqr.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dormr2.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dormr3.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dormrq.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dormrz.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dormtr.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\drot.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\drscl.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dsbev.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dsbevd.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dsbtrd.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dscal.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dstedc.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dsteqr.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dsterf.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dswap.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dsyev.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dsyevd.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dsymv.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dsyr2.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dsyr2k.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dsytd2.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dsytrd.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dtbsv.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dtgsja.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dtrcon.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dtrevc.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dtrexc.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dtrmm.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dtrmv.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dtrsm.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dtrsv.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dtrti2.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dtrtri.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dtrtrs.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\dtzrzf.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\idamax.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\ieeeck.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\ilaenv.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\iparmq.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\lsame.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\CSLapack Library\xerbla.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\EigenSystem.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\IMatrix.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\LinearEquations .cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\LinearLeastSquares .cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\Matrix.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\MatrixDebuggerDisplay.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\MatrixView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MotorCalculo\LinearAlgebr\MatrixView.designer.cs">
+      <DependentUpon>MatrixView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MotorCalculo\LinearAlgebr\SingularValueDecomposition.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\SymmetricBandMatrix.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\SymmetricMatrix.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\TridiagonalMatrix.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\Types.cs" />
+    <Compile Include="MotorCalculo\LinearAlgebr\Vector.cs" />
+    <Compile Include="DotNumerics Validation\Prueba.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DotNumerics Validation\Prueba.Designer.cs">
+      <DependentUpon>Prueba.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Equipos\11 Turbina Auxiliar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Equipos\11 Turbina Auxiliar.Designer.cs">
+      <DependentUpon>11 Turbina Auxiliar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Equipos\6 Reactor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Equipos\6 Reactor.Designer.cs">
+      <DependentUpon>6 Reactor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Equipos\18 Desaireador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Equipos\18 Desaireador.Designer.cs">
+      <DependentUpon>18 Desaireador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Equipos\Resultados Equipos\ClassTurbina9.cs" />
+    <Compile Include="Equipos\Lista Equipos\1 ListaCondContorno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Equipos\Lista Equipos\1 ListaCondContorno.Designer.cs">
+      <DependentUpon>1 ListaCondContorno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Equipos\Ejemplos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Equipos\Ejemplos.designer.cs">
+      <DependentUpon>Ejemplos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ExplicacionMetodoCalculo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ExplicacionMetodoCalculo.Designer.cs">
+      <DependentUpon>ExplicacionMetodoCalculo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FactorIteraciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FactorIteraciones.Designer.cs">
+      <DependentUpon>FactorIteraciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface con HBAL\EscribirarchivoHbal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface con HBAL\EscribirarchivoHbal.Designer.cs">
+      <DependentUpon>EscribirarchivoHbal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface con HBAL\Resultadoshbal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface con HBAL\Resultadoshbal.Designer.cs">
+      <DependentUpon>Resultadoshbal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MotorCalculo\MinPack Library\Auxiliares.cs" />
+    <Compile Include="MotorCalculo\MinPack Library\dogleg.cs" />
+    <Compile Include="MotorCalculo\MinPack Library\enorm.cs" />
+    <Compile Include="MotorCalculo\MinPack Library\fdjac1.cs" />
+    <Compile Include="MotorCalculo\MinPack Library\chkder.cs" />
+    <Compile Include="MotorCalculo\MinPack Library\Por Validar\fdjac2.cs" />
+    <Compile Include="MotorCalculo\MinPack Library\hybrid.cs" />
+    <Compile Include="MotorCalculo\MinPack Library\hybrid1.cs" />
+    <Compile Include="MotorCalculo\MinPack Library\qform.cs" />
+    <Compile Include="MotorCalculo\MinPack Library\qrfac.cs" />
+    <Compile Include="MotorCalculo\MinPack Library\r1mpyq.cs" />
+    <Compile Include="MotorCalculo\MinPack Library\r1updt.cs" />
+    <Compile Include="MotorCalculo\MotorCalculo Auxiliar\Derivatives.cs" />
+    <Compile Include="MotorCalculo\MotorCalculo Auxiliar\NewtonRaphson.cs" />
+    <Compile Include="MotorCalculo\ODE\Dopri5\Dopri5.cs" />
+    <Compile Include="MotorCalculo\ODE\Dopri5\Interfaces.cs" />
+    <Compile Include="MotorCalculo\ODE\DVode\dvode.cs" />
+    <Compile Include="MotorCalculo\ODE\DVode\xBaseOdeGearsAndAdamsMoulton.cs" />
+    <Compile Include="MotorCalculo\ODE\OdeAdamsMoulton.cs" />
+    <Compile Include="MotorCalculo\ODE\OdeDelegates.cs" />
+    <Compile Include="MotorCalculo\ODE\OdeEnumerators.cs" />
+    <Compile Include="MotorCalculo\ODE\OdeExplicitRungeKutta45.cs" />
+    <Compile Include="MotorCalculo\ODE\OdeGearsBDF.cs" />
+    <Compile Include="MotorCalculo\ODE\OdeImplicitRungeKutta5.cs" />
+    <Compile Include="MotorCalculo\ODE\Radau5\dc_decsol.cs" />
+    <Compile Include="MotorCalculo\ODE\Radau5\decsol.cs" />
+    <Compile Include="MotorCalculo\ODE\Radau5\Interfaces.cs" />
+    <Compile Include="MotorCalculo\ODE\Radau5\radau5.cs" />
+    <Compile Include="MotorCalculo\ODE\RKSolOut.cs" />
+    <Compile Include="MotorCalculo\ODE\xBaseOdeRungeKutta.cs" />
+    <Compile Include="MotorCalculo\ODE\xOdeBase.cs" />
+    <Compile Include="MotorCalculo\Runge-Kutta\RungeKutta.cs" />
+    <Compile Include="Tablas de Agua\Tablas Agua IAPWS 1997\Region 3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tablas de Agua\Tablas Agua IAPWS 1997\Region 3.designer.cs">
+      <DependentUpon>Region 3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tablas de Agua\Tablas Agua IAPWS 1997\Region 4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tablas de Agua\Tablas Agua IAPWS 1997\Region 4.designer.cs">
+      <DependentUpon>Region 4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tablas de Agua\Tablas Agua IAPWS 1997\Region Borders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tablas de Agua\Tablas Agua IAPWS 1997\Region Borders.designer.cs">
+      <DependentUpon>Region Borders.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tablas de Agua\Tablas Agua IAPWS 1997\Region1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tablas de Agua\Tablas Agua IAPWS 1997\Region1.designer.cs">
+      <DependentUpon>Region1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tablas de Agua\Tablas Agua IAPWS 1997\Region2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tablas de Agua\Tablas Agua IAPWS 1997\Region2.designer.cs">
+      <DependentUpon>Region2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tablas de Agua\Tablas Agua IAPWS 1997\Region5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tablas de Agua\Tablas Agua IAPWS 1997\Region5.designer.cs">
+      <DependentUpon>Region5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tablas de Agua\Tablas Agua IAPWS 1997\RegionSelection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tablas de Agua\Tablas Agua IAPWS 1997\RegionSelection.designer.cs">
+      <DependentUpon>RegionSelection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Equipos\CalculoCondensador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Equipos\CalculoCondensador.Designer.cs">
+      <DependentUpon>CalculoCondensador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Equipos\20 Divisor Entalpia Fija.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Equipos\20 Divisor Entalpia Fija.Designer.cs">
+      <DependentUpon>20 Divisor Entalpia Fija.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Equipos\15 Condensador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Equipos\15 Condensador.Designer.cs">
+      <DependentUpon>15 Condensador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Equipos\21 Tanque de Vaporizacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Equipos\21 Tanque de Vaporizacion.Designer.cs">
+      <DependentUpon>21 Tanque de Vaporizacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Listados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Listados.Designer.cs">
+      <DependentUpon>Listados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tablas de Agua\Tablas Agua ASME 1967\Diagrama Mollier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tablas de Agua\Tablas Agua ASME 1967\Diagrama Mollier.Designer.cs">
+      <DependentUpon>Diagrama Mollier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Equipos\7 Calentador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Equipos\7 Calentador.Designer.cs">
+      <DependentUpon>7 Calentador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Equipos\8 Condensadorprincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Equipos\8 Condensadorprincipal.Designer.cs">
+      <DependentUpon>8 Condensadorprincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Equipos\4 Bomba.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Equipos\4 Bomba.Designer.cs">
+      <DependentUpon>4 Bomba.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Equipos\19 Valvula.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Equipos\19 Valvula.Designer.cs">
+      <DependentUpon>19 Valvula.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Equipos\10 Turbina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Equipos\10 Turbina.Designer.cs">
+      <DependentUpon>10 Turbina.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Equipos\Equipos.cs" />
+    <Compile Include="Interface con HBAL\LecturaHbal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface con HBAL\LecturaHbal.designer.cs">
+      <DependentUpon>LecturaHbal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Equipos\14 MSR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Equipos\14 MSR.Designer.cs">
+      <DependentUpon>14 MSR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Equipos\9 Turbina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Equipos\9 Turbina.Designer.cs">
+      <DependentUpon>9 Turbina.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MotorCalculo\NewtonRaphson\Derivatives1.cs" />
+    <Compile Include="Equipos\1 BoundaryCondition.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Equipos\1 BoundaryCondition.Designer.cs">
+      <DependentUpon>1 BoundaryCondition.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Equipos\5 Mezclador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Equipos\5 Mezclador.Designer.cs">
+      <DependentUpon>5 Mezclador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Equipos\13 Sephumedad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Equipos\13 Sephumedad.Designer.cs">
+      <DependentUpon>13 Sephumedad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Equipos\3 PerdidaCarga.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Equipos\3 PerdidaCarga.Designer.cs">
+      <DependentUpon>3 PerdidaCarga.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Equipos\2 Divisor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Equipos\2 Divisor.Designer.cs">
+      <DependentUpon>2 Divisor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Equipos\Paletaequipos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Equipos\Paletaequipos.Designer.cs">
+      <DependentUpon>Paletaequipos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Aplicacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Aplicacion.Designer.cs">
+      <DependentUpon>Aplicacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MotorCalculo\Motorcalculo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MotorCalculo\Motorcalculo.designer.cs">
+      <DependentUpon>Motorcalculo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MotorCalculo\NewtonRaphson\Matrix4.cs" />
+    <Compile Include="MotorCalculo\NewtonRaphson\NewtonRaphson1.cs" />
+    <Compile Include="MotorCalculo\NewtonRaphson\Parameter.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tablas de Agua\Tablas Agua ASME 1967\Class1.cs" />
+    <Compile Include="Tablas de Agua\Tablas Agua ASME 1967\ASME1967.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tablas de Agua\Tablas Agua ASME 1967\ASME1967.designer.cs">
+      <DependentUpon>ASME1967.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tablas del Usuario\Tablaluis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tablas del Usuario\Tablaluis.designer.cs">
+      <DependentUpon>Tablaluis.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Tesis Doctoral\BifasicoPressureDropCalc.resx">
+      <DependentUpon>BifasicoPressureDropCalc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tesis Doctoral\BifasicoBoilingHeatCal.resx">
+      <DependentUpon>BifasicoBoilingHeatCal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tesis Doctoral\BifasicoCondensationHeatCal.resx">
+      <DependentUpon>BifasicoCondensationHeatCal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tesis Doctoral\Intercambiador Liq-Liq.resx">
+      <DependentUpon>Intercambiador Liq-Liq.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tesis Doctoral\MonofasicoFluidCal.resx">
+      <DependentUpon>MonofasicoFluidCal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MotorCalculo\Analisis Sensibilidad.resx">
+      <DependentUpon>Analisis Sensibilidad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Equipos\17 Atemperador.resx">
+      <DependentUpon>17 Atemperador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Equipos\Lista Equipos\18 Lista Desaireador.resx">
+      <DependentUpon>18 Lista Desaireador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="About.resx">
+      <DependentUpon>About.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Datosgenerales.resx">
+      <DependentUpon>Datosgenerales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Compilador C#\FormMain.resx">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Diagram.Net Library\Diagam.Net\About.resx">
+      <DependentUpon>About.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Diagram.Net Library\Diagam.Net\Codigo\Designer.resx">
+      <DependentUpon>Designer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Diagram.Net Library\Diagam.Net\Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Equipos\16 Enfriador de Drenajes.resx">
+      <DependentUpon>16 Enfriador de Drenajes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Equipos\22 Intercambiador.resx">
+      <DependentUpon>22 Intercambiador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Equipos\Lista Equipos\10 ListaTurbinas.resx">
+      <DependentUpon>10 ListaTurbinas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Equipos\Lista Equipos\13 Lista SepHumedad.resx">
+      <DependentUpon>13 Lista SepHumedad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Equipos\Lista Equipos\14 Lista MSR.resx">
+      <DependentUpon>14 Lista MSR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Equipos\Lista Equipos\15 Lista Condensador.resx">
+      <DependentUpon>15 Lista Condensador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Equipos\Lista Equipos\5 Lista Mezclador.resx">
+      <DependentUpon>5 Lista Mezclador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Equipos\Lista Equipos\2 Lista Divisor.resx">
+      <DependentUpon>2 Lista Divisor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Equipos\Lista Equipos\20 Lista Divisor Entalpia Fija.resx">
+      <DependentUpon>20 Lista Divisor Entalpia Fija.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Equipos\Lista Equipos\6 Lista Reactor.resx">
+      <DependentUpon>6 Lista Reactor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Equipos\Lista Equipos\3 Lista Perdidas Carga.resx">
+      <DependentUpon>3 Lista Perdidas Carga.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Equipos\Lista Equipos\4 Lista Bomba.resx">
+      <DependentUpon>4 Lista Bomba.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Equipos\Lista Equipos\9 Lista Turbina.resx">
+      <DependentUpon>9 Lista Turbina.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Equipos\Lista Equipos\7 Lista Calentador.resx">
+      <DependentUpon>7 Lista Calentador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Equipos\Lista Equipos\19 Lista Valvula.resx">
+      <DependentUpon>19 Lista Valvula.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Equipos\Lista Equipos\22 Lista Turbina.resx">
+      <DependentUpon>22 Lista Intercambiador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Equipos\Lista Equipos\16 Lista Enfriador Drenajes.resx">
+      <DependentUpon>16 Lista Enfriador Drenajes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Equipos\Lista Equipos\21 Lista Tanque de Vaporizacion.resx">
+      <DependentUpon>21 Lista Tanque de Vaporizacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Equipos\Lista Equipos\17 Lista Atemperador.resx">
+      <DependentUpon>17 Lista Atemperador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Equipos\Lista Equipos\11 Lista Turbina Auxiliar.resx">
+      <DependentUpon>11 Lista Turbina Auxiliar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MotorCalculo\Form1Dassl.resx">
+      <DependentUpon>Form1Dassl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MotorCalculo\LinearAlgebr\MatrixView.resx">
+      <DependentUpon>MatrixView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DotNumerics Validation\Prueba.resx">
+      <DependentUpon>Prueba.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Equipos\11 Turbina Auxiliar.resx">
+      <DependentUpon>11 Turbina Auxiliar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Equipos\6 Reactor.resx">
+      <DependentUpon>6 Reactor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Equipos\18 Desaireador.resx">
+      <DependentUpon>18 Desaireador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Equipos\Lista Equipos\1 ListaCondContorno.resx">
+      <DependentUpon>1 ListaCondContorno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Equipos\Ejemplos.resx">
+      <DependentUpon>Ejemplos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExplicacionMetodoCalculo.resx">
+      <DependentUpon>ExplicacionMetodoCalculo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FactorIteraciones.resx">
+      <DependentUpon>FactorIteraciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface con HBAL\EscribirarchivoHbal.resx">
+      <DependentUpon>EscribirarchivoHbal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface con HBAL\Resultadoshbal.resx">
+      <DependentUpon>Resultadoshbal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tablas de Agua\Tablas Agua IAPWS 1997\Region 3.resx">
+      <DependentUpon>Region 3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tablas de Agua\Tablas Agua IAPWS 1997\Region 4.resx">
+      <DependentUpon>Region 4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tablas de Agua\Tablas Agua IAPWS 1997\Region Borders.resx">
+      <DependentUpon>Region Borders.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tablas de Agua\Tablas Agua IAPWS 1997\Region1.resx">
+      <DependentUpon>Region1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tablas de Agua\Tablas Agua IAPWS 1997\Region2.resx">
+      <DependentUpon>Region2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tablas de Agua\Tablas Agua IAPWS 1997\Region5.resx">
+      <DependentUpon>Region5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tablas de Agua\Tablas Agua IAPWS 1997\RegionSelection.resx">
+      <DependentUpon>RegionSelection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Equipos\CalculoCondensador.resx">
+      <DependentUpon>CalculoCondensador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Equipos\1 BoundaryCondition.resx">
+      <DependentUpon>1 BoundaryCondition.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Equipos\7 Calentador.resx">
+      <DependentUpon>7 Calentador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Equipos\8 Condensadorprincipal.resx">
+      <DependentUpon>8 Condensadorprincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Equipos\4 Bomba.resx">
+      <DependentUpon>4 Bomba.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Equipos\20 Divisor Entalpia Fija.resx">
+      <DependentUpon>20 Divisor Entalpia Fija.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Equipos\19 Valvula.resx">
+      <DependentUpon>19 Valvula.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Equipos\10 Turbina.resx">
+      <DependentUpon>10 Turbina.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Equipos\15 Condensador.resx">
+      <DependentUpon>15 Condensador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Equipos\21 Tanque de Vaporizacion.resx">
+      <DependentUpon>21 Tanque de Vaporizacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface con HBAL\LecturaHbal.resx">
+      <DependentUpon>LecturaHbal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Equipos\14 MSR.resx">
+      <DependentUpon>14 MSR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Equipos\9 Turbina.resx">
+      <DependentUpon>9 Turbina.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Equipos\5 Mezclador.resx">
+      <DependentUpon>5 Mezclador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Equipos\13 Sephumedad.resx">
+      <DependentUpon>13 Sephumedad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Equipos\3 PerdidaCarga.resx">
+      <DependentUpon>3 PerdidaCarga.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Equipos\2 Divisor.resx">
+      <DependentUpon>2 Divisor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Equipos\Paletaequipos.resx">
+      <DependentUpon>Paletaequipos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Aplicacion.resx">
+      <DependentUpon>Aplicacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listados.resx">
+      <DependentUpon>Listados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MotorCalculo\Motorcalculo.resx">
+      <DependentUpon>Motorcalculo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Tablas de Agua\Tablas Agua ASME 1967\ASME1967.resx">
+      <DependentUpon>ASME1967.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tablas de Agua\Tablas Agua ASME 1967\Diagrama Mollier.resx">
+      <DependentUpon>Diagrama Mollier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tablas del Usuario\Tablaluis.resx">
+      <DependentUpon>Tablaluis.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Diagram.Net Library\Diagam.Net\ClassDiagram1.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icono Turbina.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Turbinaboton.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Condensador.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Valvula.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cursor1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cursor.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Divisor.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mezclador.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SepHumedad.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sumidero.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fuente.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Calentador.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Desgasificador.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MSR.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bomba.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Conexionsalida.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Conexionentrada.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Perdidacarga.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Calentador1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mezclador1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mezclador11.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mezclador12.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Perdidacarga1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sephumedad1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Divisor1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Turbina1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MSR1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Turbina3.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Condensador1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Condicion Contorno Tipo 1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WATER DROP.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Datos Entrada CondContorno Tipo 1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ecuaciones CondContorno Tipo 1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Turbina Tipo 10.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ecuaciones Turbina Tipo 10.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ecuaciones Turbina Tipo 9.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Datos Entrada Turbina Tipo 10.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Datos Entrada Turbina Tipo 9.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Datos1 Entrada Turbina Tipo 9.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Divisor Tipo 2.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Datos Entrada Divisor Tipo 2.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ecuaciones Divisor Tipo 2.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Perdida Carga Tipo 3.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Datos Entrada Perdida Carga Tipo 3.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ecuaciones Perdida Carga Tipo 3.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bomba Tipo 4.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Datos Entrada Bomba Tipo 4.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ecuaciones Bomba Tipo 4.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ecuaciones Mezclador Tipo 5.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Datos Entrada Mezclador Tipo 5.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mezclador Tipo 5.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Datos Entrada Caldera Tipo 6.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ecuaciones Caldera Tipo 6.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Caldera Tipo 6.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Calentador Tipo 7.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Datos1 Entrada Calentador Tipo 7.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Datos Entrada Calentador Tipo 7.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ecuaciones Calentador Tipo 7.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ecuaciones Condensador Tipo 8.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Datos1 Entrada Condensador Tipo 8.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Datos Entrada Condensador Tipo 8.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ecuaciones Condensador Tipo 81.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Condensador Tipo 8.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Turbina Tipo 9.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Datos Entrada Turbina Tipo 91.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ecuaciones Turbina Tipo 91.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Datos1 Entrada Turbina Tipo 91.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Turbina Auxiliar Tipo 11.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Datos Entrada Turbina Auxiliar Tipo 11.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ecuaciones Turbina Auxiliar Tipo 11.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Datos de Entrada Separador Humedad Tipo 13.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ecuaciones Separador Humedad Tipo 13.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ecuaciones1 Separador Humedad Tipo 13.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Separador de Humedad Tipo 13.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MSR Tipo 14.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Datos de Entrada MSR Tipo 14.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Datos1 de Entrada MSR Tipo 14.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ecuaciones MSR Tipo 14.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ecuaciones1 MSR Tipo 14.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Condensador Tipo 15.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Datos Entrada Condensador Tipo 15.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ecuaciones Condensador Tipo 15.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Valvula Control Tipo 19.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Datos Entrada Valvula Control Tipo 19.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ecuaciones Valvula Tipo 19.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Datos Entrada Divisor Entalpia Fija Tipo 20.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ecuaciones Divisor Entalpia Fija Tipo 20.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Divisor Entalpia Fija Tipo 20.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Datos Entrada Desaireador Tipo 18.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ecuacioines Desaireador Tipo 18.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Desaireador Tipo 18.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tanque Vaporización Instantanea Tipo 21.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Datos Entrada Tanque Vaporización Instantanea Tipo 21.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ecuaciones Tanque Vaporización Instantanea Tipo 21.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Newton_iteration.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\300px-NewtonIteration_Ani.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Factor Iteraciones.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NewtonIteration5.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NewtonIteration1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Newton_iteration4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NewtonIteration3.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Newtonaa.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NewtonIteration2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Error Maximo.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Newton_iteration2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Broyden1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Broyden2.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Broyden3.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\300px-NewtonIteration_Ani1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Newton Raphson1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Newton Raphson11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shell-side.jpg" />
+    <None Include="Resources\Tube-side_copy.jpg" />
+    <None Include="Resources\Heat_exchanger_Segmented.jpg" />
+    <None Include="Resources\Imagen Balance Energía.png" />
+    <None Include="Resources\Imagen Balance Energía1.png" />
+    <None Include="Resources\Imagen Balance Energía2.png" />
+    <None Include="Resources\Counter-current_profile.jpg" />
+    <Content Include="Resources\logo.gif" />
+    <Content Include="Resources\Mollier LUIS COCO.bmp" />
+    <None Include="Resources\TurbinaDibujo.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Diagram.Net Library\Netron\" />
+    <Folder Include="MotorCalculo\NewtonRaphson\NewFolder1\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

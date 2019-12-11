@@ -1,0 +1,6665 @@
+     EMPRESARIOS AGRUPADOS, A.I.E.                                                                             PAGINA     1
+                                                      **********************                           FECHA Sun Oct 31 2010
+  GHESA INGENIERIA Y TECNOLOGIA, S.A                  *      HBAL-05       *
+                                                      * ================== *
+  DEPARTAMENTO DE ANALISIS MECANICOS                  **********************
+  ==================================
+
+
+               C.N.LAGUNA VERDE  120% carga  T.A CIRC 28低                                    
+
+
+         1         1         1         0         2         0    1        
+  1.26013E+03  7.03300E+01  2.77144E+03  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00
+         2         3         2         0         3         0    1        
+  0.00000E+00  0.00000E+00  2.82100E-06  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00
+         3         2         3         0         4         5    1        
+  6.70700E+01  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00
+         4         2         4         0         6         7    2        
+  3.93000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00
+        13         1        19         0         8         0    1        
+  2.00000E-01  2.74029E+01  2.79380E+03  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00
+         5         5         6         8         9         0    0        
+  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00
+         6        20         9         0        10        11    3        
+  2.10000E-01  2.79380E+03  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00
+         7        19        10         0        12         0    0        
+  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00
+         8         2        12         0        13        14    1        
+  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00
+         9         9        14         0        15         0    2        
+  8.81190E-01  0.00000E+00  1.34200E+01  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00
+        10         9        13         0        16         0    2        
+  8.82486E-01  0.00000E+00  1.34046E+01  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00
+        14        13        15         0        21        20    1        
+  2.55000E-02  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00
+        15        13        16         0        23        22    5        
+  2.49880E-02  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00
+        16         2        21         0        24        25    1        
+  4.73330E+01  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00
+        17         2        23         0        26        27    1        
+  6.86435E+01  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00
+        18         9        26         0        28         0    3        
+  8.66480E-01  0.00000E+00  2.81002E+01  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00
+        19         9        24         0        29         0    3        
+  8.67185E-01  0.00000E+00  2.48953E+01  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00
+        20         5        28        29        30         0    3        
+  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  1.00000E+00
+        21         1        30         0        31         0    1        
+  0.00000E+00  1.36404E+01  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00
+     EMPRESARIOS AGRUPADOS, A.I.E.                                                                             PAGINA     2
+                                                      **********************                           FECHA Sun Oct 31 2010
+  GHESA INGENIERIA Y TECNOLOGIA, S.A                  *      HBAL-05       *
+                                                      * ================== *
+  DEPARTAMENTO DE ANALISIS MECANICOS                  **********************
+  ==================================
+
+
+               C.N.LAGUNA VERDE  120% carga  T.A CIRC 28低                                    
+
+
+
+          LA CORRIENTE     1 ENTRA AL EQUIPO     1,
+          LA CORRIENTE     2 SALE DEL EQUIPO     1 Y ENTRA AL EQUIPO     2
+          LA CORRIENTE     3 SALE DEL EQUIPO     2 Y ENTRA AL EQUIPO     3
+          LA CORRIENTE     4 SALE DEL EQUIPO     3 Y ENTRA AL EQUIPO     4
+
+          LA CORRIENTE     5 SALE DEL EQUIPO     3,
+          LA CORRIENTE     6 SALE DEL EQUIPO     4 Y ENTRA AL EQUIPO     5
+
+          LA CORRIENTE     7 SALE DEL EQUIPO     4,
+          LA CORRIENTE     8 SALE DEL EQUIPO    13 Y ENTRA AL EQUIPO     5
+          LA CORRIENTE     9 SALE DEL EQUIPO     5 Y ENTRA AL EQUIPO     6
+          LA CORRIENTE    10 SALE DEL EQUIPO     6 Y ENTRA AL EQUIPO     7
+
+          LA CORRIENTE    11 SALE DEL EQUIPO     6,
+          LA CORRIENTE    12 SALE DEL EQUIPO     7 Y ENTRA AL EQUIPO     8
+          LA CORRIENTE    13 SALE DEL EQUIPO     8 Y ENTRA AL EQUIPO    10
+          LA CORRIENTE    14 SALE DEL EQUIPO     8 Y ENTRA AL EQUIPO     9
+          LA CORRIENTE    15 SALE DEL EQUIPO     9 Y ENTRA AL EQUIPO    14
+          LA CORRIENTE    16 SALE DEL EQUIPO    10 Y ENTRA AL EQUIPO    15
+
+          LA CORRIENTE    19 ENTRA AL EQUIPO    13,
+
+          LA CORRIENTE    20 SALE DEL EQUIPO    14,
+          LA CORRIENTE    21 SALE DEL EQUIPO    14 Y ENTRA AL EQUIPO    16
+
+          LA CORRIENTE    22 SALE DEL EQUIPO    15,
+          LA CORRIENTE    23 SALE DEL EQUIPO    15 Y ENTRA AL EQUIPO    17
+          LA CORRIENTE    24 SALE DEL EQUIPO    16 Y ENTRA AL EQUIPO    19
+
+          LA CORRIENTE    25 SALE DEL EQUIPO    16,
+          LA CORRIENTE    26 SALE DEL EQUIPO    17 Y ENTRA AL EQUIPO    18
+
+          LA CORRIENTE    27 SALE DEL EQUIPO    17,
+          LA CORRIENTE    28 SALE DEL EQUIPO    18 Y ENTRA AL EQUIPO    20
+          LA CORRIENTE    29 SALE DEL EQUIPO    19 Y ENTRA AL EQUIPO    20
+          LA CORRIENTE    30 SALE DEL EQUIPO    20 Y ENTRA AL EQUIPO    21
+
+          LA CORRIENTE    31 SALE DEL EQUIPO    21,
+     EMPRESARIOS AGRUPADOS, A.I.E.                                                                             PAGINA     3
+                                                      **********************                           FECHA Sun Oct 31 2010
+  GHESA INGENIERIA Y TECNOLOGIA, S.A                  *      HBAL-05       *
+                                                      * ================== *
+  DEPARTAMENTO DE ANALISIS MECANICOS                  **********************
+  ==================================
+
+
+               C.N.LAGUNA VERDE  120% carga  T.A CIRC 28低                                    
+
+
+          LA CORRIENTE     1 NO SALE DE NINGUN EQUIPO
+            NO OBSTANTE LA CONFIGURACION PUEDE SER VALIDA
+
+          LA CORRIENTE     5 NO ENTRA A NINGUN EQUIPO
+            NO OBSTANTE LA CONFIGURACION PUEDE SER VALIDA
+
+          LA CORRIENTE     7 NO ENTRA A NINGUN EQUIPO
+            NO OBSTANTE LA CONFIGURACION PUEDE SER VALIDA
+
+          LA CORRIENTE    11 NO ENTRA A NINGUN EQUIPO
+            NO OBSTANTE LA CONFIGURACION PUEDE SER VALIDA
+
+          LA CORRIENTE    31 NO ENTRA A NINGUN EQUIPO
+            NO OBSTANTE LA CONFIGURACION PUEDE SER VALIDA
+
+          LA CORRIENTE    19 NO SALE DE NINGUN EQUIPO
+            NO OBSTANTE LA CONFIGURACION PUEDE SER VALIDA
+
+          LA CORRIENTE    20 NO ENTRA A NINGUN EQUIPO
+            NO OBSTANTE LA CONFIGURACION PUEDE SER VALIDA
+
+          LA CORRIENTE    22 NO ENTRA A NINGUN EQUIPO
+            NO OBSTANTE LA CONFIGURACION PUEDE SER VALIDA
+
+          LA CORRIENTE    25 NO ENTRA A NINGUN EQUIPO
+            NO OBSTANTE LA CONFIGURACION PUEDE SER VALIDA
+
+          LA CORRIENTE    27 NO ENTRA A NINGUN EQUIPO
+            NO OBSTANTE LA CONFIGURACION PUEDE SER VALIDA
+
+     EMPRESARIOS AGRUPADOS, A.I.E.                                                                             PAGINA     4
+                                                      **********************                           FECHA Sun Oct 31 2010
+  GHESA INGENIERIA Y TECNOLOGIA, S.A                  *      HBAL-05       *
+                                                      * ================== *
+  DEPARTAMENTO DE ANALISIS MECANICOS                  **********************
+  ==================================
+
+
+               C.N.LAGUNA VERDE  120% carga  T.A CIRC 28低                                    
+
+
+ EL EQUIPO       1 GENERA LAS ECUACIONES     1 --     6
+ EL EQUIPO       2 GENERA LAS ECUACIONES     7 --     9
+ EL EQUIPO       3 GENERA LAS ECUACIONES    10 --    15
+ EL EQUIPO       4 GENERA LAS ECUACIONES    16 --    21
+ EL EQUIPO       5 GENERA LAS ECUACIONES    22 --    24
+ EL EQUIPO       6 GENERA LAS ECUACIONES    25 --    30
+ EL EQUIPO       7 GENERA LAS ECUACIONES    31 --    32
+ EL EQUIPO       8 GENERA LAS ECUACIONES    33 --    37
+ EL EQUIPO       9 GENERA LAS ECUACIONES    38 --    40
+ EL EQUIPO      10 GENERA LAS ECUACIONES    41 --    43
+ EL EQUIPO      13 GENERA LAS ECUACIONES    44 --    49
+ EL EQUIPO      14 GENERA LAS ECUACIONES    50 --    55
+ EL EQUIPO      15 GENERA LAS ECUACIONES    56 --    61
+ EL EQUIPO      16 GENERA LAS ECUACIONES    62 --    67
+ EL EQUIPO      17 GENERA LAS ECUACIONES    68 --    73
+ EL EQUIPO      18 GENERA LAS ECUACIONES    74 --    76
+ EL EQUIPO      19 GENERA LAS ECUACIONES    77 --    79
+ EL EQUIPO      20 GENERA LAS ECUACIONES    80 --    83
+ EL EQUIPO      21 GENERA LAS ECUACIONES    84 --    87
+     EMPRESARIOS AGRUPADOS, A.I.E.                                                                             PAGINA     5
+                                                      **********************                           FECHA Sun Oct 31 2010
+  GHESA INGENIERIA Y TECNOLOGIA, S.A                  *      HBAL-05       *
+                                                      * ================== *
+  DEPARTAMENTO DE ANALISIS MECANICOS                  **********************
+  ==================================
+
+
+               C.N.LAGUNA VERDE  120% carga  T.A CIRC 28低                                    
+
+
+ CAUDAL      13
+ CAUDAL      14
+ CAUDAL      15
+ CAUDAL      16
+ CAUDAL      20
+ CAUDAL      21
+ CAUDAL      22
+ CAUDAL      23
+ CAUDAL      24
+ CAUDAL      26
+ CAUDAL      28
+ CAUDAL      29
+ CAUDAL      30
+ CAUDAL      31
+ CORRIENTE NUMERO     1 --------  1.26013400E+03 7.03300000E+01 2.77144000E+03
+ CORRIENTE NUMERO     2 --------  1.26013400E+03 7.03300000E+01 2.77144000E+03
+ CORRIENTE NUMERO     3 --------  1.26013400E+03 6.68134992E+01 2.77144000E+03
+ CORRIENTE NUMERO     4 --------  1.19306400E+03 6.68134992E+01 2.77144000E+03
+ CORRIENTE NUMERO     5 --------  6.70700000E+01 6.68134992E+01 2.77144000E+03
+ CORRIENTE NUMERO     6 --------  1.18913400E+03 6.68134992E+01 2.77144000E+03
+ CORRIENTE NUMERO     7 --------  3.93000000E+00 6.68134992E+01 2.77144000E+03
+ CORRIENTE NUMERO     8 --------  2.00000000E-01 2.74029000E+01 2.79380000E+03
+ CORRIENTE NUMERO     9 --------  1.18933400E+03 6.68134992E+01 2.77144374E+03
+ CORRIENTE NUMERO    10 --------  1.18912400E+03 6.68134992E+01 2.77143977E+03
+ CORRIENTE NUMERO    11 --------  2.10000000E-01 6.68134992E+01 2.79380000E+03
+ CORRIENTE NUMERO    12 --------  1.18912400E+03 6.68134992E+01 2.77143977E+03
+ CORRIENTE NUMERO    13 --------  3.88448276E+02 6.68134992E+01 2.77143977E+03
+ CORRIENTE NUMERO    14 --------  3.64482759E+02 6.68134992E+01 2.77143977E+03
+ CORRIENTE NUMERO    15 --------  3.40517241E+02 2.67254001E+01 2.62170035E+03
+ CORRIENTE NUMERO    16 --------  3.16551724E+02 2.67254001E+01 2.62148012E+03
+ CORRIENTE NUMERO    19 --------  2.00000000E-01 2.74029000E+01 2.79380000E+03
+ CORRIENTE NUMERO    20 --------  2.20689655E+02 2.67254001E+01 9.78637037E+02
+ CORRIENTE NUMERO    21 --------  1.96724138E+02 2.67254001E+01 2.80162770E+03
+ CORRIENTE NUMERO    22 --------  1.72758621E+02 2.67254001E+01 9.78637037E+02
+ CORRIENTE NUMERO    23 --------  1.48793103E+02 2.67254001E+01 2.80162770E+03
+ CORRIENTE NUMERO    24 --------  1.24827586E+02 2.67254001E+01 2.80162770E+03
+ CORRIENTE NUMERO    25 --------  4.73330000E+01 2.67254001E+01 2.80162770E+03
+ CORRIENTE NUMERO    26 --------  7.68965517E+01 2.67254001E+01 2.80162770E+03
+ CORRIENTE NUMERO    27 --------  6.86435000E+01 2.67254001E+01 2.80162770E+03
+ CORRIENTE NUMERO    28 --------  2.89655172E+01 1.36404000E+01 2.68938213E+03
+ CORRIENTE NUMERO    29 --------  5.00000000E+00 1.36404000E+01 2.68929080E+03
+ CORRIENTE NUMERO    30 --------  2.92586207E+02 1.36404000E+01 1.97068966E+02
+ CORRIENTE NUMERO    31 --------  2.68620690E+02 1.36404000E+01 1.96896552E+02
+     EMPRESARIOS AGRUPADOS, A.I.E.                                                                             PAGINA     6
+                                                      **********************                           FECHA Sun Oct 31 2010
+  GHESA INGENIERIA Y TECNOLOGIA, S.A                  *      HBAL-05       *
+                                                      * ================== *
+  DEPARTAMENTO DE ANALISIS MECANICOS                  **********************
+  ==================================
+
+
+               C.N.LAGUNA VERDE  120% carga  T.A CIRC 28低                                    
+
+
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO    1 ERROR MAXIMO   1.082087E+02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO    2 ERROR MAXIMO   1.064343E+02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO    3 ERROR MAXIMO   1.047224E+02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO    4 ERROR MAXIMO   1.028412E+02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO    5 ERROR MAXIMO   1.009664E+02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO    6 ERROR MAXIMO   9.924295E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO    7 ERROR MAXIMO   9.737049E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO    8 ERROR MAXIMO   9.574861E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO    9 ERROR MAXIMO   9.388911E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   10 ERROR MAXIMO   9.228765E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   11 ERROR MAXIMO   9.050010E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   12 ERROR MAXIMO   8.894907E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   13 ERROR MAXIMO   8.741757E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   14 ERROR MAXIMO   8.574028E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   15 ERROR MAXIMO   8.408774E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   16 ERROR MAXIMO   8.255875E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   17 ERROR MAXIMO   8.113650E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   18 ERROR MAXIMO   7.964628E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   19 ERROR MAXIMO   7.833868E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   20 ERROR MAXIMO   7.687969E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   21 ERROR MAXIMO   7.554765E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   22 ERROR MAXIMO   7.423658E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   23 ERROR MAXIMO   7.301061E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   24 ERROR MAXIMO   7.174358E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   25 ERROR MAXIMO   7.035494E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   26 ERROR MAXIMO   6.901914E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   27 ERROR MAXIMO   6.780896E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   28 ERROR MAXIMO   6.664022E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   29 ERROR MAXIMO   6.548070E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   30 ERROR MAXIMO   6.427982E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   31 ERROR MAXIMO   6.315541E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   32 ERROR MAXIMO   6.206380E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   33 ERROR MAXIMO   6.098836E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   34 ERROR MAXIMO   5.986818E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   35 ERROR MAXIMO   5.876726E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   36 ERROR MAXIMO   5.779333E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   37 ERROR MAXIMO   5.679607E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   38 ERROR MAXIMO   5.576374E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   39 ERROR MAXIMO   5.473975E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   40 ERROR MAXIMO   5.374543E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   41 ERROR MAXIMO   5.270930E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   42 ERROR MAXIMO   5.181703E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   43 ERROR MAXIMO   5.080463E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   44 ERROR MAXIMO   4.992454E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   45 ERROR MAXIMO   4.904106E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   46 ERROR MAXIMO   4.816901E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   47 ERROR MAXIMO   4.738695E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   48 ERROR MAXIMO   4.657037E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   49 ERROR MAXIMO   4.570158E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   50 ERROR MAXIMO   4.478646E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   51 ERROR MAXIMO   4.395397E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   52 ERROR MAXIMO   4.319738E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   53 ERROR MAXIMO   4.248184E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   54 ERROR MAXIMO   4.167181E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   55 ERROR MAXIMO   4.096001E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   56 ERROR MAXIMO   4.027860E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   57 ERROR MAXIMO   3.956480E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   58 ERROR MAXIMO   3.884276E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   59 ERROR MAXIMO   3.814167E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   60 ERROR MAXIMO   3.742081E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   61 ERROR MAXIMO   3.679824E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   62 ERROR MAXIMO   3.617130E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   63 ERROR MAXIMO   3.544821E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   64 ERROR MAXIMO   3.475542E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   65 ERROR MAXIMO   3.406856E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   66 ERROR MAXIMO   3.342354E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   67 ERROR MAXIMO   3.283863E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   68 ERROR MAXIMO   3.224350E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   69 ERROR MAXIMO   3.167131E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   70 ERROR MAXIMO   3.105195E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   71 ERROR MAXIMO   3.052077E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   72 ERROR MAXIMO   2.996466E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   73 ERROR MAXIMO   2.945049E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   74 ERROR MAXIMO   2.890408E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   75 ERROR MAXIMO   2.839835E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   76 ERROR MAXIMO   2.784376E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   77 ERROR MAXIMO   2.737844E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   78 ERROR MAXIMO   2.684125E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   79 ERROR MAXIMO   2.637411E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   80 ERROR MAXIMO   2.590469E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   81 ERROR MAXIMO   2.540804E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   82 ERROR MAXIMO   2.493692E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   83 ERROR MAXIMO   2.444762E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   84 ERROR MAXIMO   2.403639E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   85 ERROR MAXIMO   2.357112E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   86 ERROR MAXIMO   2.311968E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   87 ERROR MAXIMO   2.268058E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   88 ERROR MAXIMO   2.230701E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   89 ERROR MAXIMO   2.185752E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   90 ERROR MAXIMO   2.147871E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   91 ERROR MAXIMO   2.108291E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   92 ERROR MAXIMO   2.073118E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   93 ERROR MAXIMO   2.030630E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   94 ERROR MAXIMO   1.995984E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   95 ERROR MAXIMO   1.962271E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   96 ERROR MAXIMO   1.928019E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   97 ERROR MAXIMO   1.890648E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   98 ERROR MAXIMO   1.855884E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO   99 ERROR MAXIMO   1.823466E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  100 ERROR MAXIMO   1.789094E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  101 ERROR MAXIMO   1.753452E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  102 ERROR MAXIMO   1.723061E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  103 ERROR MAXIMO   1.689869E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  104 ERROR MAXIMO   1.661300E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  105 ERROR MAXIMO   1.632805E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  106 ERROR MAXIMO   1.603222E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  107 ERROR MAXIMO   1.575440E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  108 ERROR MAXIMO   1.543967E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  109 ERROR MAXIMO   1.515514E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  110 ERROR MAXIMO   1.489949E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  111 ERROR MAXIMO   1.461536E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  112 ERROR MAXIMO   1.432106E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  113 ERROR MAXIMO   1.405027E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  114 ERROR MAXIMO   1.379760E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  115 ERROR MAXIMO   1.352636E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  116 ERROR MAXIMO   1.328748E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  117 ERROR MAXIMO   1.304997E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  118 ERROR MAXIMO   1.281929E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  119 ERROR MAXIMO   1.258342E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  120 ERROR MAXIMO   1.236892E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  121 ERROR MAXIMO   1.213601E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  122 ERROR MAXIMO   1.188689E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  123 ERROR MAXIMO   1.166293E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  124 ERROR MAXIMO   1.144377E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  125 ERROR MAXIMO   1.120075E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  126 ERROR MAXIMO   1.099150E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  127 ERROR MAXIMO   1.076657E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  128 ERROR MAXIMO   1.055949E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  129 ERROR MAXIMO   1.034425E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  130 ERROR MAXIMO   1.012645E+01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  131 ERROR MAXIMO   9.938423E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  132 ERROR MAXIMO   9.750214E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  133 ERROR MAXIMO   9.555287E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  134 ERROR MAXIMO   9.365691E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  135 ERROR MAXIMO   9.167310E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  136 ERROR MAXIMO   8.997277E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  137 ERROR MAXIMO   8.820191E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  138 ERROR MAXIMO   8.644222E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  139 ERROR MAXIMO   8.476071E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  140 ERROR MAXIMO   8.316793E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  141 ERROR MAXIMO   8.157764E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  142 ERROR MAXIMO   8.012199E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  143 ERROR MAXIMO   7.838814E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  144 ERROR MAXIMO   7.678152E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  145 ERROR MAXIMO   7.539614E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  146 ERROR MAXIMO   7.398665E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  147 ERROR MAXIMO   7.258963E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  148 ERROR MAXIMO   7.112410E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  149 ERROR MAXIMO   6.965635E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  150 ERROR MAXIMO   6.832692E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  151 ERROR MAXIMO   6.698030E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  152 ERROR MAXIMO   6.572187E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  153 ERROR MAXIMO   6.424750E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  154 ERROR MAXIMO   6.296176E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  155 ERROR MAXIMO   6.172350E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  156 ERROR MAXIMO   6.037896E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  157 ERROR MAXIMO   5.923910E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  158 ERROR MAXIMO   5.790200E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  159 ERROR MAXIMO   5.681917E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  160 ERROR MAXIMO   5.560459E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  161 ERROR MAXIMO   5.455559E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  162 ERROR MAXIMO   5.352619E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  163 ERROR MAXIMO   5.238114E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  164 ERROR MAXIMO   5.116389E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  165 ERROR MAXIMO   5.000644E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  166 ERROR MAXIMO   4.904713E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  167 ERROR MAXIMO   4.789973E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  168 ERROR MAXIMO   4.696632E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  169 ERROR MAXIMO   4.597484E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  170 ERROR MAXIMO   4.504096E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  171 ERROR MAXIMO   4.413405E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  172 ERROR MAXIMO   4.322156E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  173 ERROR MAXIMO   4.219245E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  174 ERROR MAXIMO   4.119031E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  175 ERROR MAXIMO   4.031529E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  176 ERROR MAXIMO   3.935664E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  177 ERROR MAXIMO   3.850485E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  178 ERROR MAXIMO   3.767769E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  179 ERROR MAXIMO   3.683377E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  180 ERROR MAXIMO   3.607248E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  181 ERROR MAXIMO   3.518846E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  182 ERROR MAXIMO   3.431892E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  183 ERROR MAXIMO   3.349295E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  184 ERROR MAXIMO   3.273170E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  185 ERROR MAXIMO   3.197172E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  186 ERROR MAXIMO   3.115728E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  187 ERROR MAXIMO   3.048050E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  188 ERROR MAXIMO   2.981456E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  189 ERROR MAXIMO   2.912448E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  190 ERROR MAXIMO   2.838310E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  191 ERROR MAXIMO   2.764229E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  192 ERROR MAXIMO   2.694951E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  193 ERROR MAXIMO   2.627250E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  194 ERROR MAXIMO   2.557090E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  195 ERROR MAXIMO   2.499646E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  196 ERROR MAXIMO   2.439658E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  197 ERROR MAXIMO   2.379647E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  198 ERROR MAXIMO   2.317931E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  199 ERROR MAXIMO   2.254396E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  200 ERROR MAXIMO   2.195550E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  201 ERROR MAXIMO   2.134283E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  202 ERROR MAXIMO   2.080091E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  203 ERROR MAXIMO   2.026613E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  204 ERROR MAXIMO   1.969146E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  205 ERROR MAXIMO   1.920285E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  206 ERROR MAXIMO   1.867479E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  207 ERROR MAXIMO   1.812408E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  208 ERROR MAXIMO   1.762678E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  209 ERROR MAXIMO   1.713647E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  210 ERROR MAXIMO   1.663473E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  211 ERROR MAXIMO   1.616256E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  212 ERROR MAXIMO   1.574655E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  213 ERROR MAXIMO   1.533168E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  214 ERROR MAXIMO   1.491566E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  215 ERROR MAXIMO   1.447703E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  216 ERROR MAXIMO   1.400429E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  217 ERROR MAXIMO   1.361367E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  218 ERROR MAXIMO   1.319860E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  219 ERROR MAXIMO   1.283073E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  220 ERROR MAXIMO   1.241518E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  221 ERROR MAXIMO   1.198630E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  222 ERROR MAXIMO   1.163187E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  223 ERROR MAXIMO   1.125769E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  224 ERROR MAXIMO   1.086779E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  225 ERROR MAXIMO   1.049316E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  226 ERROR MAXIMO   1.012691E+00 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  227 ERROR MAXIMO   9.743339E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  228 ERROR MAXIMO   9.399602E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  229 ERROR MAXIMO   9.078009E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  230 ERROR MAXIMO   8.781072E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  231 ERROR MAXIMO   8.477798E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  232 ERROR MAXIMO   8.182457E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  233 ERROR MAXIMO   7.895480E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  234 ERROR MAXIMO   7.669609E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  235 ERROR MAXIMO   7.448050E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  236 ERROR MAXIMO   7.194650E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  29)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  237 ERROR MAXIMO   7.070302E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  238 ERROR MAXIMO   7.035234E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  239 ERROR MAXIMO   6.996674E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  240 ERROR MAXIMO   6.957704E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  241 ERROR MAXIMO   6.919537E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  242 ERROR MAXIMO   6.882194E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  243 ERROR MAXIMO   6.845149E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  244 ERROR MAXIMO   6.807939E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  245 ERROR MAXIMO   6.770716E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  246 ERROR MAXIMO   6.734756E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  247 ERROR MAXIMO   6.693914E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  248 ERROR MAXIMO   6.652870E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  249 ERROR MAXIMO   6.609508E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  250 ERROR MAXIMO   6.564099E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  251 ERROR MAXIMO   6.519531E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  252 ERROR MAXIMO   6.481440E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  253 ERROR MAXIMO   6.439600E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  254 ERROR MAXIMO   6.395590E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  255 ERROR MAXIMO   6.353534E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  256 ERROR MAXIMO   6.310447E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  257 ERROR MAXIMO   6.265292E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  258 ERROR MAXIMO   6.218655E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  259 ERROR MAXIMO   6.172339E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  260 ERROR MAXIMO   6.128851E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  261 ERROR MAXIMO   6.081100E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  262 ERROR MAXIMO   6.040761E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  263 ERROR MAXIMO   5.998741E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  264 ERROR MAXIMO   5.953393E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  265 ERROR MAXIMO   5.909736E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  266 ERROR MAXIMO   5.868676E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  267 ERROR MAXIMO   5.825865E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  268 ERROR MAXIMO   5.780378E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  269 ERROR MAXIMO   5.733530E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  270 ERROR MAXIMO   5.687579E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  271 ERROR MAXIMO   5.644324E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  272 ERROR MAXIMO   5.603605E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  273 ERROR MAXIMO   5.561715E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  274 ERROR MAXIMO   5.519778E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  275 ERROR MAXIMO   5.471977E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  276 ERROR MAXIMO   5.423891E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  277 ERROR MAXIMO   5.380571E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  278 ERROR MAXIMO   5.334406E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  279 ERROR MAXIMO   5.293424E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  280 ERROR MAXIMO   5.248773E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  281 ERROR MAXIMO   5.202903E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  282 ERROR MAXIMO   5.157139E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  283 ERROR MAXIMO   5.109296E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  284 ERROR MAXIMO   5.061382E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  285 ERROR MAXIMO   5.017059E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  286 ERROR MAXIMO   4.968826E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  287 ERROR MAXIMO   4.925870E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  288 ERROR MAXIMO   4.880727E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  289 ERROR MAXIMO   4.836965E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  290 ERROR MAXIMO   4.796056E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  291 ERROR MAXIMO   4.754369E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  292 ERROR MAXIMO   4.710238E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  293 ERROR MAXIMO   4.660785E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  294 ERROR MAXIMO   4.618953E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  295 ERROR MAXIMO   4.569623E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  296 ERROR MAXIMO   4.526999E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  297 ERROR MAXIMO   4.480522E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  298 ERROR MAXIMO   4.431776E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  299 ERROR MAXIMO   4.390777E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  300 ERROR MAXIMO   4.342164E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  301 ERROR MAXIMO   4.301654E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  302 ERROR MAXIMO   4.262061E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  303 ERROR MAXIMO   4.219504E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  304 ERROR MAXIMO   4.179308E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  305 ERROR MAXIMO   4.132134E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  306 ERROR MAXIMO   4.089493E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  307 ERROR MAXIMO   4.049829E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  308 ERROR MAXIMO   4.004325E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  309 ERROR MAXIMO   3.961983E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  310 ERROR MAXIMO   3.915867E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  311 ERROR MAXIMO   3.868029E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  312 ERROR MAXIMO   3.824895E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  313 ERROR MAXIMO   3.783080E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  314 ERROR MAXIMO   3.744139E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  315 ERROR MAXIMO   3.700372E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  316 ERROR MAXIMO   3.658719E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  317 ERROR MAXIMO   3.616919E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  318 ERROR MAXIMO   3.577688E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  319 ERROR MAXIMO   3.534486E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  320 ERROR MAXIMO   3.494686E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  321 ERROR MAXIMO   3.455897E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  322 ERROR MAXIMO   3.410443E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  323 ERROR MAXIMO   3.367866E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  324 ERROR MAXIMO   3.331281E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  325 ERROR MAXIMO   3.292529E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  326 ERROR MAXIMO   3.254210E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  327 ERROR MAXIMO   3.215353E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  328 ERROR MAXIMO   3.175179E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  329 ERROR MAXIMO   3.136656E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  330 ERROR MAXIMO   3.101132E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  331 ERROR MAXIMO   3.063127E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  332 ERROR MAXIMO   3.022424E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  333 ERROR MAXIMO   2.987112E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  334 ERROR MAXIMO   2.950978E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  335 ERROR MAXIMO   2.913853E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  336 ERROR MAXIMO   2.875988E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  337 ERROR MAXIMO   2.840886E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  338 ERROR MAXIMO   2.801498E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  339 ERROR MAXIMO   2.767765E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  340 ERROR MAXIMO   2.728110E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  341 ERROR MAXIMO   2.692899E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  342 ERROR MAXIMO   2.656211E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  343 ERROR MAXIMO   2.622498E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  344 ERROR MAXIMO   2.584972E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  345 ERROR MAXIMO   2.551495E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  346 ERROR MAXIMO   2.515339E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  347 ERROR MAXIMO   2.480664E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  348 ERROR MAXIMO   2.448905E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  349 ERROR MAXIMO   2.413297E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  350 ERROR MAXIMO   2.383217E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  351 ERROR MAXIMO   2.348547E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  352 ERROR MAXIMO   2.318480E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  353 ERROR MAXIMO   2.286276E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  354 ERROR MAXIMO   2.252853E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  355 ERROR MAXIMO   2.220811E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  356 ERROR MAXIMO   2.188739E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  357 ERROR MAXIMO   2.159599E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  358 ERROR MAXIMO   2.128086E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  359 ERROR MAXIMO   2.095715E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  360 ERROR MAXIMO   2.064890E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  361 ERROR MAXIMO   2.033270E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  362 ERROR MAXIMO   2.001538E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  363 ERROR MAXIMO   1.974129E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  364 ERROR MAXIMO   1.947117E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  365 ERROR MAXIMO   1.915757E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  366 ERROR MAXIMO   1.887772E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  367 ERROR MAXIMO   1.858629E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  368 ERROR MAXIMO   1.831155E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  369 ERROR MAXIMO   1.803623E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  370 ERROR MAXIMO   1.776486E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  371 ERROR MAXIMO   1.752702E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  372 ERROR MAXIMO   1.726377E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  373 ERROR MAXIMO   1.700868E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  374 ERROR MAXIMO   1.677207E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  375 ERROR MAXIMO   1.654491E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  376 ERROR MAXIMO   1.630212E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  377 ERROR MAXIMO   1.606009E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  378 ERROR MAXIMO   1.582132E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  379 ERROR MAXIMO   1.557606E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  380 ERROR MAXIMO   1.535639E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  381 ERROR MAXIMO   1.512910E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  382 ERROR MAXIMO   1.490254E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  383 ERROR MAXIMO   1.467227E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  384 ERROR MAXIMO   1.447104E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  385 ERROR MAXIMO   1.426551E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  386 ERROR MAXIMO   1.405652E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  387 ERROR MAXIMO   1.382626E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  388 ERROR MAXIMO   1.363273E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  389 ERROR MAXIMO   1.341269E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  390 ERROR MAXIMO   1.321954E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  391 ERROR MAXIMO   1.302794E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  392 ERROR MAXIMO   1.282587E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  393 ERROR MAXIMO   1.260961E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  394 ERROR MAXIMO   1.242310E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  395 ERROR MAXIMO   1.221874E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  396 ERROR MAXIMO   1.203091E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  397 ERROR MAXIMO   1.183763E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  398 ERROR MAXIMO   1.164263E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  399 ERROR MAXIMO   1.146781E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  400 ERROR MAXIMO   1.126435E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  401 ERROR MAXIMO   1.107219E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  402 ERROR MAXIMO   1.088839E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  403 ERROR MAXIMO   1.070251E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  404 ERROR MAXIMO   1.052866E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  405 ERROR MAXIMO   1.035880E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  406 ERROR MAXIMO   1.019430E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  407 ERROR MAXIMO   1.003784E-01 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  408 ERROR MAXIMO   9.885639E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  409 ERROR MAXIMO   9.720102E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  410 ERROR MAXIMO   9.573289E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  411 ERROR MAXIMO   9.411073E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  412 ERROR MAXIMO   9.266454E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  413 ERROR MAXIMO   9.125150E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  414 ERROR MAXIMO   8.986859E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  415 ERROR MAXIMO   8.855582E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  416 ERROR MAXIMO   8.698094E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  417 ERROR MAXIMO   8.565262E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  418 ERROR MAXIMO   8.419747E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  419 ERROR MAXIMO   8.287965E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  420 ERROR MAXIMO   8.154701E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  421 ERROR MAXIMO   8.016807E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  422 ERROR MAXIMO   7.872877E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  423 ERROR MAXIMO   7.742693E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  424 ERROR MAXIMO   7.627263E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  425 ERROR MAXIMO   7.500564E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  426 ERROR MAXIMO   7.385177E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  427 ERROR MAXIMO   7.256658E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  428 ERROR MAXIMO   7.145106E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  429 ERROR MAXIMO   7.014745E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  430 ERROR MAXIMO   6.889796E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  431 ERROR MAXIMO   6.762514E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  432 ERROR MAXIMO   6.636258E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  433 ERROR MAXIMO   6.514472E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  434 ERROR MAXIMO   6.414972E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  435 ERROR MAXIMO   6.310620E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  436 ERROR MAXIMO   6.193588E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  437 ERROR MAXIMO   6.087108E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  438 ERROR MAXIMO   5.986860E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  439 ERROR MAXIMO   5.875502E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  440 ERROR MAXIMO   5.780060E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  441 ERROR MAXIMO   5.692670E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  442 ERROR MAXIMO   5.606051E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  443 ERROR MAXIMO   5.503145E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  444 ERROR MAXIMO   5.410285E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  445 ERROR MAXIMO   5.321911E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  446 ERROR MAXIMO   5.233209E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  447 ERROR MAXIMO   5.149670E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  448 ERROR MAXIMO   5.056490E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  449 ERROR MAXIMO   4.967706E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  450 ERROR MAXIMO   4.875815E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  451 ERROR MAXIMO   4.799155E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  452 ERROR MAXIMO   4.714777E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  453 ERROR MAXIMO   4.641612E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  454 ERROR MAXIMO   4.556201E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  455 ERROR MAXIMO   4.473146E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  456 ERROR MAXIMO   4.397720E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  457 ERROR MAXIMO   4.316604E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  458 ERROR MAXIMO   4.239148E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  459 ERROR MAXIMO   4.169291E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  460 ERROR MAXIMO   4.096134E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  461 ERROR MAXIMO   4.032522E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  462 ERROR MAXIMO   3.956877E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  463 ERROR MAXIMO   3.882399E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  464 ERROR MAXIMO   3.814552E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  465 ERROR MAXIMO   3.742042E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  466 ERROR MAXIMO   3.671989E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  467 ERROR MAXIMO   3.604624E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  468 ERROR MAXIMO   3.538350E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  469 ERROR MAXIMO   3.474164E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  470 ERROR MAXIMO   3.419532E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  471 ERROR MAXIMO   3.365358E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  472 ERROR MAXIMO   3.304054E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  473 ERROR MAXIMO   3.245867E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  474 ERROR MAXIMO   3.183100E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  475 ERROR MAXIMO   3.131962E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  476 ERROR MAXIMO   3.072968E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  477 ERROR MAXIMO   3.016586E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  478 ERROR MAXIMO   2.968379E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  479 ERROR MAXIMO   2.920600E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  480 ERROR MAXIMO   2.867162E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  481 ERROR MAXIMO   2.817141E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  482 ERROR MAXIMO   2.762920E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  483 ERROR MAXIMO   2.716098E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  484 ERROR MAXIMO   2.665594E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  485 ERROR MAXIMO   2.623097E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  486 ERROR MAXIMO   2.582128E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  487 ERROR MAXIMO   2.541350E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  488 ERROR MAXIMO   2.495877E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  489 ERROR MAXIMO   2.448855E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  490 ERROR MAXIMO   2.402646E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  491 ERROR MAXIMO   2.360187E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  492 ERROR MAXIMO   2.316937E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  493 ERROR MAXIMO   2.271723E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  494 ERROR MAXIMO   2.227502E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  495 ERROR MAXIMO   2.191924E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  496 ERROR MAXIMO   2.152095E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  497 ERROR MAXIMO   2.110810E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  498 ERROR MAXIMO   2.077672E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  499 ERROR MAXIMO   2.044728E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  500 ERROR MAXIMO   2.012492E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  501 ERROR MAXIMO   1.973985E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  502 ERROR MAXIMO   1.939066E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  503 ERROR MAXIMO   1.902886E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  504 ERROR MAXIMO   1.869866E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  505 ERROR MAXIMO   1.838445E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  506 ERROR MAXIMO   1.808970E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  507 ERROR MAXIMO   1.776550E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  508 ERROR MAXIMO   1.745511E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  509 ERROR MAXIMO   1.714905E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  510 ERROR MAXIMO   1.685637E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  511 ERROR MAXIMO   1.653576E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  512 ERROR MAXIMO   1.622867E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  513 ERROR MAXIMO   1.592219E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  514 ERROR MAXIMO   1.561408E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  515 ERROR MAXIMO   1.530902E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  516 ERROR MAXIMO   1.501460E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  517 ERROR MAXIMO   1.473733E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  518 ERROR MAXIMO   1.447867E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  519 ERROR MAXIMO   1.423102E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  520 ERROR MAXIMO   1.397364E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  521 ERROR MAXIMO   1.372381E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  522 ERROR MAXIMO   1.347386E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  523 ERROR MAXIMO   1.324073E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  524 ERROR MAXIMO   1.300539E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  525 ERROR MAXIMO   1.276091E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  526 ERROR MAXIMO   1.255518E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  527 ERROR MAXIMO   1.233051E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  528 ERROR MAXIMO   1.212020E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  529 ERROR MAXIMO   1.188976E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  530 ERROR MAXIMO   1.167616E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  531 ERROR MAXIMO   1.148120E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  532 ERROR MAXIMO   1.126643E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  533 ERROR MAXIMO   1.108205E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  534 ERROR MAXIMO   1.087542E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  535 ERROR MAXIMO   1.066341E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  536 ERROR MAXIMO   1.047521E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  537 ERROR MAXIMO   1.030056E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  538 ERROR MAXIMO   1.012473E-02 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  539 ERROR MAXIMO   9.959615E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  540 ERROR MAXIMO   9.792488E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  541 ERROR MAXIMO   9.617143E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  542 ERROR MAXIMO   9.461684E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  543 ERROR MAXIMO   9.300715E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  544 ERROR MAXIMO   9.123381E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  545 ERROR MAXIMO   8.958311E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  546 ERROR MAXIMO   8.788715E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  547 ERROR MAXIMO   8.615821E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  548 ERROR MAXIMO   8.446851E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  549 ERROR MAXIMO   8.283945E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  550 ERROR MAXIMO   8.146967E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  551 ERROR MAXIMO   7.996753E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  552 ERROR MAXIMO   7.856539E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  553 ERROR MAXIMO   7.702300E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  554 ERROR MAXIMO   7.578600E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  555 ERROR MAXIMO   7.431414E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  556 ERROR MAXIMO   7.312611E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  557 ERROR MAXIMO   7.185822E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  558 ERROR MAXIMO   7.065632E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  559 ERROR MAXIMO   6.946279E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  560 ERROR MAXIMO   6.819919E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  561 ERROR MAXIMO   6.692945E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  562 ERROR MAXIMO   6.573717E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  563 ERROR MAXIMO   6.461338E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  564 ERROR MAXIMO   6.335422E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  565 ERROR MAXIMO   6.222446E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  566 ERROR MAXIMO   6.106307E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  567 ERROR MAXIMO   5.993977E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  568 ERROR MAXIMO   5.878616E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  569 ERROR MAXIMO   5.776639E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  570 ERROR MAXIMO   5.668737E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  571 ERROR MAXIMO   5.559795E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  572 ERROR MAXIMO   5.465850E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  573 ERROR MAXIMO   5.358745E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  574 ERROR MAXIMO   5.265931E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  575 ERROR MAXIMO   5.170903E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  576 ERROR MAXIMO   5.068041E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  577 ERROR MAXIMO   4.971164E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  578 ERROR MAXIMO   4.881219E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  579 ERROR MAXIMO   4.796267E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  580 ERROR MAXIMO   4.701142E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  581 ERROR MAXIMO   4.614348E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  582 ERROR MAXIMO   4.537721E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  583 ERROR MAXIMO   4.447496E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  584 ERROR MAXIMO   4.374851E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  585 ERROR MAXIMO   4.303650E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  586 ERROR MAXIMO   4.232682E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  587 ERROR MAXIMO   4.164159E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  588 ERROR MAXIMO   4.093199E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  589 ERROR MAXIMO   4.014523E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  590 ERROR MAXIMO   3.944435E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  591 ERROR MAXIMO   3.877372E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  592 ERROR MAXIMO   3.808679E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  593 ERROR MAXIMO   3.739751E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  594 ERROR MAXIMO   3.667622E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  595 ERROR MAXIMO   3.604782E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  596 ERROR MAXIMO   3.539297E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  597 ERROR MAXIMO   3.469580E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  598 ERROR MAXIMO   3.407729E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  599 ERROR MAXIMO   3.341531E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  600 ERROR MAXIMO   3.280523E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  601 ERROR MAXIMO   3.218444E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  602 ERROR MAXIMO   3.163857E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  603 ERROR MAXIMO   3.104347E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  604 ERROR MAXIMO   3.048716E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  605 ERROR MAXIMO   2.991678E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  606 ERROR MAXIMO   2.941864E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  607 ERROR MAXIMO   2.888172E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  608 ERROR MAXIMO   2.838652E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  609 ERROR MAXIMO   2.787370E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  610 ERROR MAXIMO   2.740204E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  611 ERROR MAXIMO   2.694190E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  612 ERROR MAXIMO   2.651112E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  613 ERROR MAXIMO   2.608520E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  614 ERROR MAXIMO   2.561938E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  615 ERROR MAXIMO   2.517036E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  616 ERROR MAXIMO   2.470326E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  617 ERROR MAXIMO   2.421351E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  618 ERROR MAXIMO   2.373869E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  619 ERROR MAXIMO   2.327290E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  620 ERROR MAXIMO   2.287608E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  621 ERROR MAXIMO   2.249700E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  622 ERROR MAXIMO   2.208315E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  623 ERROR MAXIMO   2.167870E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  624 ERROR MAXIMO   2.125182E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  625 ERROR MAXIMO   2.087921E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  626 ERROR MAXIMO   2.049334E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  627 ERROR MAXIMO   2.014727E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  628 ERROR MAXIMO   1.976849E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  629 ERROR MAXIMO   1.941178E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  630 ERROR MAXIMO   1.909717E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  631 ERROR MAXIMO   1.874036E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  632 ERROR MAXIMO   1.838922E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  633 ERROR MAXIMO   1.806764E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  634 ERROR MAXIMO   1.770704E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  635 ERROR MAXIMO   1.736832E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  636 ERROR MAXIMO   1.702217E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  637 ERROR MAXIMO   1.669359E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  638 ERROR MAXIMO   1.638950E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  639 ERROR MAXIMO   1.609942E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  640 ERROR MAXIMO   1.579550E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  641 ERROR MAXIMO   1.549530E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  642 ERROR MAXIMO   1.519330E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  643 ERROR MAXIMO   1.492092E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  644 ERROR MAXIMO   1.468020E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  645 ERROR MAXIMO   1.444289E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  646 ERROR MAXIMO   1.420638E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  647 ERROR MAXIMO   1.393053E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  648 ERROR MAXIMO   1.370337E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  649 ERROR MAXIMO   1.345115E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  650 ERROR MAXIMO   1.321561E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  651 ERROR MAXIMO   1.297987E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  652 ERROR MAXIMO   1.277110E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  653 ERROR MAXIMO   1.254847E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  654 ERROR MAXIMO   1.230238E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  655 ERROR MAXIMO   1.209433E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  656 ERROR MAXIMO   1.189833E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  657 ERROR MAXIMO   1.169607E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  658 ERROR MAXIMO   1.146854E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  659 ERROR MAXIMO   1.128014E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  660 ERROR MAXIMO   1.108301E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  661 ERROR MAXIMO   1.089541E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  662 ERROR MAXIMO   1.070066E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  663 ERROR MAXIMO   1.052691E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  664 ERROR MAXIMO   1.035042E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  665 ERROR MAXIMO   1.017345E-03 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  666 ERROR MAXIMO   9.972371E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  667 ERROR MAXIMO   9.810265E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  668 ERROR MAXIMO   9.623861E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  669 ERROR MAXIMO   9.455856E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  670 ERROR MAXIMO   9.284748E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  671 ERROR MAXIMO   9.131927E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  672 ERROR MAXIMO   8.975054E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  673 ERROR MAXIMO   8.813374E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  674 ERROR MAXIMO   8.655765E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  675 ERROR MAXIMO   8.509589E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  676 ERROR MAXIMO   8.370461E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  677 ERROR MAXIMO   8.212770E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  678 ERROR MAXIMO   8.079585E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  679 ERROR MAXIMO   7.937044E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  680 ERROR MAXIMO   7.797112E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  681 ERROR MAXIMO   7.671835E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  682 ERROR MAXIMO   7.531890E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  683 ERROR MAXIMO   7.389636E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  684 ERROR MAXIMO   7.255122E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  685 ERROR MAXIMO   7.125343E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  686 ERROR MAXIMO   7.002980E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  687 ERROR MAXIMO   6.884970E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  688 ERROR MAXIMO   6.752026E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  689 ERROR MAXIMO   6.640180E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  690 ERROR MAXIMO   6.518788E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  691 ERROR MAXIMO   6.389593E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  692 ERROR MAXIMO   6.272949E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  693 ERROR MAXIMO   6.169975E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  694 ERROR MAXIMO   6.053334E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  695 ERROR MAXIMO   5.955581E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  696 ERROR MAXIMO   5.857864E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  697 ERROR MAXIMO   5.753461E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  698 ERROR MAXIMO   5.658861E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  699 ERROR MAXIMO   5.555602E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  700 ERROR MAXIMO   5.448973E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  701 ERROR MAXIMO   5.355066E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  702 ERROR MAXIMO   5.267497E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  703 ERROR MAXIMO   5.169543E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  704 ERROR MAXIMO   5.086265E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  705 ERROR MAXIMO   4.988840E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  706 ERROR MAXIMO   4.908217E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  707 ERROR MAXIMO   4.821178E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  708 ERROR MAXIMO   4.740632E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  709 ERROR MAXIMO   4.664029E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  710 ERROR MAXIMO   4.582635E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  711 ERROR MAXIMO   4.508117E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  712 ERROR MAXIMO   4.424251E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  713 ERROR MAXIMO   4.349590E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  714 ERROR MAXIMO   4.271842E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  715 ERROR MAXIMO   4.191356E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  716 ERROR MAXIMO   4.109707E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  717 ERROR MAXIMO   4.035726E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  718 ERROR MAXIMO   3.958476E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  719 ERROR MAXIMO   3.886421E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  720 ERROR MAXIMO   3.820036E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  721 ERROR MAXIMO   3.757783E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  722 ERROR MAXIMO   3.686291E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  723 ERROR MAXIMO   3.615757E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  724 ERROR MAXIMO   3.553538E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  725 ERROR MAXIMO   3.494625E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  726 ERROR MAXIMO   3.426964E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  727 ERROR MAXIMO   3.363607E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  728 ERROR MAXIMO   3.303975E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  729 ERROR MAXIMO   3.238786E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  730 ERROR MAXIMO   3.180326E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  731 ERROR MAXIMO   3.125696E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  732 ERROR MAXIMO   3.073891E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  733 ERROR MAXIMO   3.016409E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  734 ERROR MAXIMO   2.964977E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  735 ERROR MAXIMO   2.917006E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  736 ERROR MAXIMO   2.859440E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  737 ERROR MAXIMO   2.806557E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  738 ERROR MAXIMO   2.754954E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  739 ERROR MAXIMO   2.709407E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  740 ERROR MAXIMO   2.662621E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  741 ERROR MAXIMO   2.619532E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  742 ERROR MAXIMO   2.577237E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  743 ERROR MAXIMO   2.527398E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  744 ERROR MAXIMO   2.478647E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  745 ERROR MAXIMO   2.436760E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  746 ERROR MAXIMO   2.396615E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  747 ERROR MAXIMO   2.354044E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  748 ERROR MAXIMO   2.307013E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  749 ERROR MAXIMO   2.265861E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  750 ERROR MAXIMO   2.226015E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  751 ERROR MAXIMO   2.188102E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  752 ERROR MAXIMO   2.149636E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  753 ERROR MAXIMO   2.114686E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  754 ERROR MAXIMO   2.077147E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  755 ERROR MAXIMO   2.038858E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  756 ERROR MAXIMO   2.001353E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  757 ERROR MAXIMO   1.966370E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  758 ERROR MAXIMO   1.928401E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  759 ERROR MAXIMO   1.891144E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  760 ERROR MAXIMO   1.859383E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  761 ERROR MAXIMO   1.824268E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  762 ERROR MAXIMO   1.793882E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  763 ERROR MAXIMO   1.763193E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  764 ERROR MAXIMO   1.729331E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  765 ERROR MAXIMO   1.698338E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  766 ERROR MAXIMO   1.670732E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  767 ERROR MAXIMO   1.641879E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  768 ERROR MAXIMO   1.615408E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  769 ERROR MAXIMO   1.589408E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  770 ERROR MAXIMO   1.562979E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  771 ERROR MAXIMO   1.535866E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  772 ERROR MAXIMO   1.508070E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  773 ERROR MAXIMO   1.479452E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  774 ERROR MAXIMO   1.455246E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  775 ERROR MAXIMO   1.427682E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  776 ERROR MAXIMO   1.399484E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  777 ERROR MAXIMO   1.376812E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  778 ERROR MAXIMO   1.351886E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  779 ERROR MAXIMO   1.325232E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  780 ERROR MAXIMO   1.299045E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  781 ERROR MAXIMO   1.276364E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  782 ERROR MAXIMO   1.255218E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  783 ERROR MAXIMO   1.233378E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  784 ERROR MAXIMO   1.212570E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  785 ERROR MAXIMO   1.192546E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  786 ERROR MAXIMO   1.170456E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  787 ERROR MAXIMO   1.149646E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  788 ERROR MAXIMO   1.129086E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  789 ERROR MAXIMO   1.107428E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  790 ERROR MAXIMO   1.086597E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  791 ERROR MAXIMO   1.066269E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  792 ERROR MAXIMO   1.047430E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  793 ERROR MAXIMO   1.027163E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  794 ERROR MAXIMO   1.010395E-04 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  795 ERROR MAXIMO   9.921067E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  796 ERROR MAXIMO   9.731050E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  797 ERROR MAXIMO   9.546552E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  798 ERROR MAXIMO   9.374439E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  799 ERROR MAXIMO   9.206345E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  800 ERROR MAXIMO   9.046781E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  801 ERROR MAXIMO   8.901838E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  802 ERROR MAXIMO   8.733184E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  803 ERROR MAXIMO   8.591349E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  804 ERROR MAXIMO   8.425890E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  805 ERROR MAXIMO   8.285981E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  806 ERROR MAXIMO   8.135489E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  807 ERROR MAXIMO   7.979851E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  808 ERROR MAXIMO   7.851760E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  809 ERROR MAXIMO   7.703816E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  810 ERROR MAXIMO   7.558782E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  811 ERROR MAXIMO   7.432057E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  812 ERROR MAXIMO   7.291668E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  813 ERROR MAXIMO   7.168219E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  814 ERROR MAXIMO   7.052459E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  815 ERROR MAXIMO   6.915847E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  816 ERROR MAXIMO   6.784341E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  817 ERROR MAXIMO   6.668152E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  818 ERROR MAXIMO   6.552100E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  819 ERROR MAXIMO   6.439161E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  820 ERROR MAXIMO   6.312095E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  821 ERROR MAXIMO   6.200054E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  822 ERROR MAXIMO   6.088906E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  823 ERROR MAXIMO   5.987127E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  824 ERROR MAXIMO   5.888871E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  825 ERROR MAXIMO   5.787665E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  826 ERROR MAXIMO   5.688597E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  827 ERROR MAXIMO   5.596329E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  828 ERROR MAXIMO   5.504108E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  829 ERROR MAXIMO   5.405704E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  830 ERROR MAXIMO   5.306050E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  831 ERROR MAXIMO   5.209336E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  832 ERROR MAXIMO   5.108129E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  833 ERROR MAXIMO   5.014468E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  834 ERROR MAXIMO   4.927195E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  835 ERROR MAXIMO   4.842068E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  836 ERROR MAXIMO   4.760653E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  837 ERROR MAXIMO   4.679113E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  838 ERROR MAXIMO   4.596707E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  839 ERROR MAXIMO   4.504911E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  840 ERROR MAXIMO   4.431687E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  841 ERROR MAXIMO   4.356842E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  842 ERROR MAXIMO   4.275350E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  843 ERROR MAXIMO   4.202791E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  844 ERROR MAXIMO   4.129544E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  845 ERROR MAXIMO   4.062181E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  846 ERROR MAXIMO   3.995583E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  847 ERROR MAXIMO   3.919636E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  848 ERROR MAXIMO   3.856616E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  849 ERROR MAXIMO   3.786588E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  850 ERROR MAXIMO   3.716704E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  851 ERROR MAXIMO   3.654011E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  852 ERROR MAXIMO   3.595514E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  853 ERROR MAXIMO   3.533508E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  854 ERROR MAXIMO   3.474416E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  855 ERROR MAXIMO   3.413950E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  856 ERROR MAXIMO   3.355611E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  857 ERROR MAXIMO   3.300386E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  858 ERROR MAXIMO   3.237360E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  859 ERROR MAXIMO   3.174140E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  860 ERROR MAXIMO   3.113052E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  861 ERROR MAXIMO   3.054713E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  862 ERROR MAXIMO   3.001146E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  863 ERROR MAXIMO   2.946464E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  864 ERROR MAXIMO   2.892034E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  865 ERROR MAXIMO   2.836794E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  866 ERROR MAXIMO   2.791219E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  867 ERROR MAXIMO   2.745115E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  868 ERROR MAXIMO   2.693435E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  869 ERROR MAXIMO   2.648697E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  870 ERROR MAXIMO   2.598978E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  871 ERROR MAXIMO   2.553438E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  872 ERROR MAXIMO   2.511508E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  873 ERROR MAXIMO   2.465293E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  874 ERROR MAXIMO   2.421408E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  875 ERROR MAXIMO   2.381701E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  876 ERROR MAXIMO   2.335403E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  877 ERROR MAXIMO   2.289468E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  878 ERROR MAXIMO   2.249707E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  879 ERROR MAXIMO   2.212874E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  880 ERROR MAXIMO   2.177200E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  881 ERROR MAXIMO   2.134370E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  882 ERROR MAXIMO   2.096502E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  883 ERROR MAXIMO   2.061419E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  884 ERROR MAXIMO   2.022720E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  885 ERROR MAXIMO   1.986857E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  886 ERROR MAXIMO   1.948586E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  887 ERROR MAXIMO   1.915781E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  888 ERROR MAXIMO   1.877924E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  889 ERROR MAXIMO   1.845573E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  890 ERROR MAXIMO   1.811751E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  891 ERROR MAXIMO   1.782602E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  892 ERROR MAXIMO   1.747812E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  893 ERROR MAXIMO   1.717038E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  894 ERROR MAXIMO   1.683736E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  895 ERROR MAXIMO   1.653475E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  896 ERROR MAXIMO   1.622836E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  897 ERROR MAXIMO   1.593009E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  898 ERROR MAXIMO   1.562754E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  899 ERROR MAXIMO   1.534585E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  900 ERROR MAXIMO   1.507948E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  901 ERROR MAXIMO   1.479126E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  902 ERROR MAXIMO   1.452940E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  903 ERROR MAXIMO   1.424100E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  904 ERROR MAXIMO   1.400437E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  905 ERROR MAXIMO   1.373209E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  906 ERROR MAXIMO   1.350992E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  907 ERROR MAXIMO   1.325177E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  908 ERROR MAXIMO   1.302669E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  909 ERROR MAXIMO   1.277836E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  910 ERROR MAXIMO   1.253394E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  911 ERROR MAXIMO   1.228917E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  912 ERROR MAXIMO   1.205313E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  913 ERROR MAXIMO   1.183942E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  914 ERROR MAXIMO   1.161063E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  915 ERROR MAXIMO   1.141441E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  916 ERROR MAXIMO   1.123079E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  917 ERROR MAXIMO   1.101439E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  918 ERROR MAXIMO   1.082048E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  919 ERROR MAXIMO   1.061410E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  920 ERROR MAXIMO   1.043904E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  921 ERROR MAXIMO   1.023489E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  922 ERROR MAXIMO   1.004178E-05 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  923 ERROR MAXIMO   9.861393E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  924 ERROR MAXIMO   9.690268E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  925 ERROR MAXIMO   9.510581E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  926 ERROR MAXIMO   9.357708E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  927 ERROR MAXIMO   9.193504E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  928 ERROR MAXIMO   9.012753E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  929 ERROR MAXIMO   8.866438E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  930 ERROR MAXIMO   8.704653E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  931 ERROR MAXIMO   8.549154E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  932 ERROR MAXIMO   8.408346E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  933 ERROR MAXIMO   8.267916E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  934 ERROR MAXIMO   8.115185E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  935 ERROR MAXIMO   7.960877E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  936 ERROR MAXIMO   7.826342E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  937 ERROR MAXIMO   7.700520E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  938 ERROR MAXIMO   7.562678E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  939 ERROR MAXIMO   7.432874E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  940 ERROR MAXIMO   7.298130E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  941 ERROR MAXIMO   7.162706E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  942 ERROR MAXIMO   7.035637E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  943 ERROR MAXIMO   6.919282E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  944 ERROR MAXIMO   6.798897E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  945 ERROR MAXIMO   6.687414E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  946 ERROR MAXIMO   6.558570E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  947 ERROR MAXIMO   6.444278E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  948 ERROR MAXIMO   6.341074E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  949 ERROR MAXIMO   6.227436E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  950 ERROR MAXIMO   6.104038E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  951 ERROR MAXIMO   6.005268E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  952 ERROR MAXIMO   5.889098E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  953 ERROR MAXIMO   5.774203E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  954 ERROR MAXIMO   5.677285E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  955 ERROR MAXIMO   5.579547E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  956 ERROR MAXIMO   5.485706E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  957 ERROR MAXIMO   5.389107E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  958 ERROR MAXIMO   5.283288E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  959 ERROR MAXIMO   5.193434E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  960 ERROR MAXIMO   5.100326E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  961 ERROR MAXIMO   5.015010E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  962 ERROR MAXIMO   4.925280E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  963 ERROR MAXIMO   4.846009E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  964 ERROR MAXIMO   4.767369E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  965 ERROR MAXIMO   4.684248E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  966 ERROR MAXIMO   4.603960E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  967 ERROR MAXIMO   4.516115E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  968 ERROR MAXIMO   4.437824E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  969 ERROR MAXIMO   4.365200E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  970 ERROR MAXIMO   4.282141E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  971 ERROR MAXIMO   4.202375E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  972 ERROR MAXIMO   4.122817E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  973 ERROR MAXIMO   4.047736E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  974 ERROR MAXIMO   3.977842E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  975 ERROR MAXIMO   3.900421E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  976 ERROR MAXIMO   3.827259E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  977 ERROR MAXIMO   3.751734E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  978 ERROR MAXIMO   3.685587E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  979 ERROR MAXIMO   3.617859E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  980 ERROR MAXIMO   3.550500E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  981 ERROR MAXIMO   3.487474E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  982 ERROR MAXIMO   3.424854E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  983 ERROR MAXIMO   3.369305E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  984 ERROR MAXIMO   3.314112E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  985 ERROR MAXIMO   3.257280E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  986 ERROR MAXIMO   3.204712E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  987 ERROR MAXIMO   3.147326E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  988 ERROR MAXIMO   3.090751E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  989 ERROR MAXIMO   3.032430E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  990 ERROR MAXIMO   2.977414E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  991 ERROR MAXIMO   2.928543E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  992 ERROR MAXIMO   2.877603E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  993 ERROR MAXIMO   2.820274E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  994 ERROR MAXIMO   2.769535E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  995 ERROR MAXIMO   2.723062E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  996 ERROR MAXIMO   2.677606E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  997 ERROR MAXIMO   2.631075E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  998 ERROR MAXIMO   2.584326E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO  999 ERROR MAXIMO   2.542696E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1000 ERROR MAXIMO   2.496959E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1001 ERROR MAXIMO   2.456086E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1002 ERROR MAXIMO   2.407886E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1003 ERROR MAXIMO   2.360784E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1004 ERROR MAXIMO   2.314847E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1005 ERROR MAXIMO   2.272969E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1006 ERROR MAXIMO   2.232578E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1007 ERROR MAXIMO   2.196038E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1008 ERROR MAXIMO   2.153550E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1009 ERROR MAXIMO   2.110906E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1010 ERROR MAXIMO   2.071899E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1011 ERROR MAXIMO   2.030847E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1012 ERROR MAXIMO   1.990311E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1013 ERROR MAXIMO   1.952849E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1014 ERROR MAXIMO   1.921433E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1015 ERROR MAXIMO   1.884439E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1016 ERROR MAXIMO   1.847386E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1017 ERROR MAXIMO   1.816839E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1018 ERROR MAXIMO   1.785966E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1019 ERROR MAXIMO   1.757212E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1020 ERROR MAXIMO   1.727538E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1021 ERROR MAXIMO   1.695779E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1022 ERROR MAXIMO   1.662444E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1023 ERROR MAXIMO   1.629475E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1024 ERROR MAXIMO   1.599945E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1025 ERROR MAXIMO   1.571337E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1026 ERROR MAXIMO   1.542102E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1027 ERROR MAXIMO   1.511286E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1028 ERROR MAXIMO   1.484193E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1029 ERROR MAXIMO   1.459567E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1030 ERROR MAXIMO   1.435601E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1031 ERROR MAXIMO   1.409527E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1032 ERROR MAXIMO   1.382865E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1033 ERROR MAXIMO   1.360528E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1034 ERROR MAXIMO   1.333653E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1035 ERROR MAXIMO   1.312276E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1036 ERROR MAXIMO   1.286334E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1037 ERROR MAXIMO   1.262848E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1038 ERROR MAXIMO   1.238458E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1039 ERROR MAXIMO   1.214543E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1040 ERROR MAXIMO   1.191186E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1041 ERROR MAXIMO   1.171334E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1042 ERROR MAXIMO   1.150397E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1043 ERROR MAXIMO   1.129921E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1044 ERROR MAXIMO   1.111725E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1045 ERROR MAXIMO   1.092610E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1046 ERROR MAXIMO   1.072644E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1047 ERROR MAXIMO   1.054040E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1048 ERROR MAXIMO   1.035853E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1049 ERROR MAXIMO   1.017486E-06 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1050 ERROR MAXIMO   9.977365E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1051 ERROR MAXIMO   9.779249E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1052 ERROR MAXIMO   9.606998E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1053 ERROR MAXIMO   9.451181E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1054 ERROR MAXIMO   9.297669E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1055 ERROR MAXIMO   9.118043E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1056 ERROR MAXIMO   8.970535E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1057 ERROR MAXIMO   8.803117E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1058 ERROR MAXIMO   8.628849E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1059 ERROR MAXIMO   8.475536E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1060 ERROR MAXIMO   8.306082E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1061 ERROR MAXIMO   8.147100E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1062 ERROR MAXIMO   8.007320E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1063 ERROR MAXIMO   7.868767E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1064 ERROR MAXIMO   7.741402E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1065 ERROR MAXIMO   7.588277E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1066 ERROR MAXIMO   7.440522E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1067 ERROR MAXIMO   7.320780E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1068 ERROR MAXIMO   7.174891E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1069 ERROR MAXIMO   7.040187E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1070 ERROR MAXIMO   6.913770E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1071 ERROR MAXIMO   6.800655E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1072 ERROR MAXIMO   6.675056E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1073 ERROR MAXIMO   6.552343E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1074 ERROR MAXIMO   6.422079E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1075 ERROR MAXIMO   6.316784E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1076 ERROR MAXIMO   6.196073E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1077 ERROR MAXIMO   6.091153E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1078 ERROR MAXIMO   5.990167E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1079 ERROR MAXIMO   5.879040E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1080 ERROR MAXIMO   5.777824E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1081 ERROR MAXIMO   5.680754E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1082 ERROR MAXIMO   5.570253E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1083 ERROR MAXIMO   5.474209E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1084 ERROR MAXIMO   5.385418E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1085 ERROR MAXIMO   5.296912E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1086 ERROR MAXIMO   5.191180E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1087 ERROR MAXIMO   5.092852E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1088 ERROR MAXIMO   4.992952E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1089 ERROR MAXIMO   4.901390E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1090 ERROR MAXIMO   4.814978E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1091 ERROR MAXIMO   4.727381E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1092 ERROR MAXIMO   4.637781E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1093 ERROR MAXIMO   4.558531E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1094 ERROR MAXIMO   4.485402E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1095 ERROR MAXIMO   4.406473E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1096 ERROR MAXIMO   4.327784E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1097 ERROR MAXIMO   4.244246E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1098 ERROR MAXIMO   4.164238E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1099 ERROR MAXIMO   4.081713E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1100 ERROR MAXIMO   4.000091E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1101 ERROR MAXIMO   3.921276E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1102 ERROR MAXIMO   3.851617E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1103 ERROR MAXIMO   3.776223E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1104 ERROR MAXIMO   3.711572E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1105 ERROR MAXIMO   3.648361E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1106 ERROR MAXIMO   3.587964E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1107 ERROR MAXIMO   3.517394E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1108 ERROR MAXIMO   3.457464E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1109 ERROR MAXIMO   3.394888E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1110 ERROR MAXIMO   3.330161E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1111 ERROR MAXIMO   3.267083E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1112 ERROR MAXIMO   3.203008E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1113 ERROR MAXIMO   3.145966E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1114 ERROR MAXIMO   3.091926E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1115 ERROR MAXIMO   3.041469E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1116 ERROR MAXIMO   2.990472E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1117 ERROR MAXIMO   2.933390E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1118 ERROR MAXIMO   2.878013E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1119 ERROR MAXIMO   2.824003E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1120 ERROR MAXIMO   2.777413E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1121 ERROR MAXIMO   2.730291E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1122 ERROR MAXIMO   2.686164E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1123 ERROR MAXIMO   2.639620E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1124 ERROR MAXIMO   2.589808E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1125 ERROR MAXIMO   2.541933E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1126 ERROR MAXIMO   2.498359E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1127 ERROR MAXIMO   2.450631E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1128 ERROR MAXIMO   2.401649E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1129 ERROR MAXIMO   2.356480E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1130 ERROR MAXIMO   2.314178E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1131 ERROR MAXIMO   2.269615E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1132 ERROR MAXIMO   2.233221E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1133 ERROR MAXIMO   2.195020E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1134 ERROR MAXIMO   2.153759E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1135 ERROR MAXIMO   2.117103E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1136 ERROR MAXIMO   2.076320E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1137 ERROR MAXIMO   2.041746E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1138 ERROR MAXIMO   2.000997E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1139 ERROR MAXIMO   1.961618E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1140 ERROR MAXIMO   1.926386E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1141 ERROR MAXIMO   1.894099E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1142 ERROR MAXIMO   1.860412E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1143 ERROR MAXIMO   1.825849E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1144 ERROR MAXIMO   1.795731E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1145 ERROR MAXIMO   1.765529E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1146 ERROR MAXIMO   1.736126E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1147 ERROR MAXIMO   1.706355E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1148 ERROR MAXIMO   1.673387E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1149 ERROR MAXIMO   1.646187E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1150 ERROR MAXIMO   1.618125E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1151 ERROR MAXIMO   1.587636E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1152 ERROR MAXIMO   1.557624E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1153 ERROR MAXIMO   1.528645E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1154 ERROR MAXIMO   1.498882E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1155 ERROR MAXIMO   1.470085E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1156 ERROR MAXIMO   1.440960E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1157 ERROR MAXIMO   1.412986E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1158 ERROR MAXIMO   1.389651E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1159 ERROR MAXIMO   1.364808E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1160 ERROR MAXIMO   1.339342E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1161 ERROR MAXIMO   1.314803E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1162 ERROR MAXIMO   1.292676E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1163 ERROR MAXIMO   1.268776E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1164 ERROR MAXIMO   1.248343E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1165 ERROR MAXIMO   1.224550E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1166 ERROR MAXIMO   1.203589E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1167 ERROR MAXIMO   1.183426E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1168 ERROR MAXIMO   1.163375E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1169 ERROR MAXIMO   1.143236E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1170 ERROR MAXIMO   1.122446E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1171 ERROR MAXIMO   1.103965E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1172 ERROR MAXIMO   1.084155E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1173 ERROR MAXIMO   1.065757E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1174 ERROR MAXIMO   1.047845E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1175 ERROR MAXIMO   1.029481E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1176 ERROR MAXIMO   1.008934E-07 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1177 ERROR MAXIMO   9.909041E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1178 ERROR MAXIMO   9.731210E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1179 ERROR MAXIMO   9.538697E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1180 ERROR MAXIMO   9.348427E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1181 ERROR MAXIMO   9.161659E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1182 ERROR MAXIMO   8.991753E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1183 ERROR MAXIMO   8.818714E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1184 ERROR MAXIMO   8.652267E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1185 ERROR MAXIMO   8.485160E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1186 ERROR MAXIMO   8.318867E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1187 ERROR MAXIMO   8.152800E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1188 ERROR MAXIMO   8.007583E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1189 ERROR MAXIMO   7.848029E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1190 ERROR MAXIMO   7.705012E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1191 ERROR MAXIMO   7.566306E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1192 ERROR MAXIMO   7.430764E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1193 ERROR MAXIMO   7.297463E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1194 ERROR MAXIMO   7.154850E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1195 ERROR MAXIMO   7.029172E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1196 ERROR MAXIMO   6.914638E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1197 ERROR MAXIMO   6.793195E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1198 ERROR MAXIMO   6.678981E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1199 ERROR MAXIMO   6.553145E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1200 ERROR MAXIMO   6.433696E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1201 ERROR MAXIMO   6.310906E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1202 ERROR MAXIMO   6.189412E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1203 ERROR MAXIMO   6.077180E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1204 ERROR MAXIMO   5.973713E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1205 ERROR MAXIMO   5.861458E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1206 ERROR MAXIMO   5.766424E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1207 ERROR MAXIMO   5.652010E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1208 ERROR MAXIMO   5.550182E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1209 ERROR MAXIMO   5.455552E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1210 ERROR MAXIMO   5.362092E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1211 ERROR MAXIMO   5.274806E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1212 ERROR MAXIMO   5.176097E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1213 ERROR MAXIMO   5.081127E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1214 ERROR MAXIMO   4.982445E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1215 ERROR MAXIMO   4.902538E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1216 ERROR MAXIMO   4.821774E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1217 ERROR MAXIMO   4.729334E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1218 ERROR MAXIMO   4.650755E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1219 ERROR MAXIMO   4.559835E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1220 ERROR MAXIMO   4.482258E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1221 ERROR MAXIMO   4.410117E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1222 ERROR MAXIMO   4.329318E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1223 ERROR MAXIMO   4.244829E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1224 ERROR MAXIMO   4.169382E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1225 ERROR MAXIMO   4.095308E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1226 ERROR MAXIMO   4.020995E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1227 ERROR MAXIMO   3.954452E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1228 ERROR MAXIMO   3.888702E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1229 ERROR MAXIMO   3.823516E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1230 ERROR MAXIMO   3.755105E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1231 ERROR MAXIMO   3.682361E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1232 ERROR MAXIMO   3.611825E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1233 ERROR MAXIMO   3.546542E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1234 ERROR MAXIMO   3.478397E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1235 ERROR MAXIMO   3.420261E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1236 ERROR MAXIMO   3.354297E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1237 ERROR MAXIMO   3.292966E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1238 ERROR MAXIMO   3.240219E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1239 ERROR MAXIMO   3.183171E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1240 ERROR MAXIMO   3.123371E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1241 ERROR MAXIMO   3.065853E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1242 ERROR MAXIMO   3.009952E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1243 ERROR MAXIMO   2.953493E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1244 ERROR MAXIMO   2.895609E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1245 ERROR MAXIMO   2.839333E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1246 ERROR MAXIMO   2.783410E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1247 ERROR MAXIMO   2.735297E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1248 ERROR MAXIMO   2.681075E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1249 ERROR MAXIMO   2.632166E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1250 ERROR MAXIMO   2.583248E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1251 ERROR MAXIMO   2.536345E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1252 ERROR MAXIMO   2.492427E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1253 ERROR MAXIMO   2.442609E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1254 ERROR MAXIMO   2.401359E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1255 ERROR MAXIMO   2.356928E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1256 ERROR MAXIMO   2.313490E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1257 ERROR MAXIMO   2.272596E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1258 ERROR MAXIMO   2.234451E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1259 ERROR MAXIMO   2.190849E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1260 ERROR MAXIMO   2.153299E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1261 ERROR MAXIMO   2.117235E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1262 ERROR MAXIMO   2.082387E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1263 ERROR MAXIMO   2.044228E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1264 ERROR MAXIMO   2.003672E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1265 ERROR MAXIMO   1.967169E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1266 ERROR MAXIMO   1.931298E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1267 ERROR MAXIMO   1.899810E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1268 ERROR MAXIMO   1.867954E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1269 ERROR MAXIMO   1.831452E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1270 ERROR MAXIMO   1.801502E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1271 ERROR MAXIMO   1.767617E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1272 ERROR MAXIMO   1.735323E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1273 ERROR MAXIMO   1.703939E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1274 ERROR MAXIMO   1.674529E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1275 ERROR MAXIMO   1.642284E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1276 ERROR MAXIMO   1.611430E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1277 ERROR MAXIMO   1.580413E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1278 ERROR MAXIMO   1.549480E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1279 ERROR MAXIMO   1.520006E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1280 ERROR MAXIMO   1.494465E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1281 ERROR MAXIMO   1.469737E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1282 ERROR MAXIMO   1.443795E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1283 ERROR MAXIMO   1.415348E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1284 ERROR MAXIMO   1.388435E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1285 ERROR MAXIMO   1.361251E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1286 ERROR MAXIMO   1.336817E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1287 ERROR MAXIMO   1.311382E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1288 ERROR MAXIMO   1.285494E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1289 ERROR MAXIMO   1.262277E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1290 ERROR MAXIMO   1.237729E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1291 ERROR MAXIMO   1.214942E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1292 ERROR MAXIMO   1.192976E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1293 ERROR MAXIMO   1.172225E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1294 ERROR MAXIMO   1.152853E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1295 ERROR MAXIMO   1.129845E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1296 ERROR MAXIMO   1.111518E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1297 ERROR MAXIMO   1.089574E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1298 ERROR MAXIMO   1.071986E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1299 ERROR MAXIMO   1.053673E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1300 ERROR MAXIMO   1.035073E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1301 ERROR MAXIMO   1.016093E-08 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1302 ERROR MAXIMO   9.983621E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1303 ERROR MAXIMO   9.788430E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1304 ERROR MAXIMO   9.626923E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1305 ERROR MAXIMO   9.434733E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1306 ERROR MAXIMO   9.259566E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1307 ERROR MAXIMO   9.094929E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1308 ERROR MAXIMO   8.947526E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1309 ERROR MAXIMO   8.787636E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1310 ERROR MAXIMO   8.620456E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1311 ERROR MAXIMO   8.470669E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1312 ERROR MAXIMO   8.304206E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1313 ERROR MAXIMO   8.152659E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1314 ERROR MAXIMO   8.009029E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1315 ERROR MAXIMO   7.878482E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1316 ERROR MAXIMO   7.735639E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1317 ERROR MAXIMO   7.588508E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1318 ERROR MAXIMO   7.454779E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1319 ERROR MAXIMO   7.326964E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1320 ERROR MAXIMO   7.194665E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1321 ERROR MAXIMO   7.060761E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1322 ERROR MAXIMO   6.932864E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1323 ERROR MAXIMO   6.811491E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1324 ERROR MAXIMO   6.680508E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1325 ERROR MAXIMO   6.553071E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1326 ERROR MAXIMO   6.434925E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1327 ERROR MAXIMO   6.305569E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1328 ERROR MAXIMO   6.200064E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1329 ERROR MAXIMO   6.086765E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1330 ERROR MAXIMO   5.980180E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1331 ERROR MAXIMO   5.868037E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1332 ERROR MAXIMO   5.763296E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1333 ERROR MAXIMO   5.652020E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1334 ERROR MAXIMO   5.545640E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1335 ERROR MAXIMO   5.457677E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1336 ERROR MAXIMO   5.360425E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1337 ERROR MAXIMO   5.273180E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1338 ERROR MAXIMO   5.178854E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1339 ERROR MAXIMO   5.083848E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1340 ERROR MAXIMO   5.001591E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1341 ERROR MAXIMO   4.903879E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1342 ERROR MAXIMO   4.816886E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1343 ERROR MAXIMO   4.738167E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1344 ERROR MAXIMO   4.659783E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1345 ERROR MAXIMO   4.569929E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1346 ERROR MAXIMO   4.483641E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1347 ERROR MAXIMO   4.412375E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1348 ERROR MAXIMO   4.331062E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1349 ERROR MAXIMO   4.250842E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1350 ERROR MAXIMO   4.164947E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1351 ERROR MAXIMO   4.095053E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1352 ERROR MAXIMO   4.025762E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1353 ERROR MAXIMO   3.944930E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1354 ERROR MAXIMO   3.878680E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1355 ERROR MAXIMO   3.813875E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1356 ERROR MAXIMO   3.750584E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1357 ERROR MAXIMO   3.684571E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1358 ERROR MAXIMO   3.619633E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1359 ERROR MAXIMO   3.550178E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1360 ERROR MAXIMO   3.490185E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1361 ERROR MAXIMO   3.425692E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1362 ERROR MAXIMO   3.366220E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1363 ERROR MAXIMO   3.306109E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1364 ERROR MAXIMO   3.248237E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1365 ERROR MAXIMO   3.187783E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1366 ERROR MAXIMO   3.135310E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1367 ERROR MAXIMO   3.085235E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1368 ERROR MAXIMO   3.029525E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1369 ERROR MAXIMO   2.970995E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1370 ERROR MAXIMO   2.915342E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1371 ERROR MAXIMO   2.864908E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1372 ERROR MAXIMO   2.810338E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1373 ERROR MAXIMO   2.755850E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1374 ERROR MAXIMO   2.708737E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1375 ERROR MAXIMO   2.654982E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1376 ERROR MAXIMO   2.603207E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1377 ERROR MAXIMO   2.552239E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1378 ERROR MAXIMO   2.508688E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1379 ERROR MAXIMO   2.459831E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1380 ERROR MAXIMO   2.420227E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1381 ERROR MAXIMO   2.377880E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1382 ERROR MAXIMO   2.336864E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1383 ERROR MAXIMO   2.294736E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1384 ERROR MAXIMO   2.254571E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1385 ERROR MAXIMO   2.217112E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1386 ERROR MAXIMO   2.179119E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1387 ERROR MAXIMO   2.145496E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1388 ERROR MAXIMO   2.104343E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1389 ERROR MAXIMO   2.068765E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1390 ERROR MAXIMO   2.030367E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1391 ERROR MAXIMO   1.997347E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1392 ERROR MAXIMO   1.963090E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1393 ERROR MAXIMO   1.931099E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1394 ERROR MAXIMO   1.897254E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1395 ERROR MAXIMO   1.864631E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1396 ERROR MAXIMO   1.832398E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1397 ERROR MAXIMO   1.798295E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1398 ERROR MAXIMO   1.762116E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1399 ERROR MAXIMO   1.728586E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1400 ERROR MAXIMO   1.697575E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1401 ERROR MAXIMO   1.670102E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1402 ERROR MAXIMO   1.638965E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1403 ERROR MAXIMO   1.607919E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1404 ERROR MAXIMO   1.577254E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1405 ERROR MAXIMO   1.547589E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1406 ERROR MAXIMO   1.518217E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1407 ERROR MAXIMO   1.492941E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1408 ERROR MAXIMO   1.467979E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1409 ERROR MAXIMO   1.438798E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1410 ERROR MAXIMO   1.415069E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1411 ERROR MAXIMO   1.389999E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1412 ERROR MAXIMO   1.363181E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1413 ERROR MAXIMO   1.339886E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1414 ERROR MAXIMO   1.317281E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1415 ERROR MAXIMO   1.294658E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1416 ERROR MAXIMO   1.270674E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1417 ERROR MAXIMO   1.246852E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1418 ERROR MAXIMO   1.221322E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1419 ERROR MAXIMO   1.197304E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1420 ERROR MAXIMO   1.176969E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1421 ERROR MAXIMO   1.156106E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1422 ERROR MAXIMO   1.135591E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1423 ERROR MAXIMO   1.117671E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1424 ERROR MAXIMO   1.097619E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1425 ERROR MAXIMO   1.075920E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1426 ERROR MAXIMO   1.057594E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1427 ERROR MAXIMO   1.037880E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1428 ERROR MAXIMO   1.018248E-09 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1429 ERROR MAXIMO   9.995483E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1430 ERROR MAXIMO   9.816363E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1431 ERROR MAXIMO   9.613387E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1432 ERROR MAXIMO   9.426567E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1433 ERROR MAXIMO   9.282852E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1434 ERROR MAXIMO   9.118379E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1435 ERROR MAXIMO   8.950771E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1436 ERROR MAXIMO   8.792310E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1437 ERROR MAXIMO   8.629556E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1438 ERROR MAXIMO   8.486469E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1439 ERROR MAXIMO   8.332931E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1440 ERROR MAXIMO   8.175407E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1441 ERROR MAXIMO   8.020061E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1442 ERROR MAXIMO   7.863066E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1443 ERROR MAXIMO   7.722785E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1444 ERROR MAXIMO   7.593952E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1445 ERROR MAXIMO   7.471275E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1446 ERROR MAXIMO   7.313794E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1447 ERROR MAXIMO   7.192064E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1448 ERROR MAXIMO   7.071675E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1449 ERROR MAXIMO   6.948108E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1450 ERROR MAXIMO   6.819690E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1451 ERROR MAXIMO   6.695452E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1452 ERROR MAXIMO   6.596915E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1453 ERROR MAXIMO   6.460194E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1454 ERROR MAXIMO   6.359693E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1455 ERROR MAXIMO   6.205802E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1456 ERROR MAXIMO   6.105406E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1457 ERROR MAXIMO   6.022066E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1458 ERROR MAXIMO   5.890860E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1459 ERROR MAXIMO   5.779412E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1460 ERROR MAXIMO   5.691061E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1461 ERROR MAXIMO   5.578083E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1462 ERROR MAXIMO   5.504634E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1463 ERROR MAXIMO   5.385972E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1464 ERROR MAXIMO   5.314027E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1465 ERROR MAXIMO   5.202724E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1466 ERROR MAXIMO   5.113163E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1467 ERROR MAXIMO   5.012895E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1468 ERROR MAXIMO   4.923766E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1469 ERROR MAXIMO   4.825748E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1470 ERROR MAXIMO   4.736769E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1471 ERROR MAXIMO   4.637654E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1472 ERROR MAXIMO   4.551074E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1473 ERROR MAXIMO   4.474338E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1474 ERROR MAXIMO   4.387130E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1475 ERROR MAXIMO   4.324459E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1476 ERROR MAXIMO   4.236697E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1477 ERROR MAXIMO   4.173250E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1478 ERROR MAXIMO   4.100634E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1479 ERROR MAXIMO   4.020779E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1480 ERROR MAXIMO   3.970860E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1481 ERROR MAXIMO   3.900265E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1482 ERROR MAXIMO   3.816857E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1483 ERROR MAXIMO   3.766277E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1484 ERROR MAXIMO   3.703577E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1485 ERROR MAXIMO   3.637429E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1486 ERROR MAXIMO   3.563651E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1487 ERROR MAXIMO   3.510621E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1488 ERROR MAXIMO   3.443379E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1489 ERROR MAXIMO   3.372601E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1490 ERROR MAXIMO   3.302951E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1491 ERROR MAXIMO   3.252160E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1492 ERROR MAXIMO   3.188756E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1493 ERROR MAXIMO   3.129215E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1494 ERROR MAXIMO   3.078889E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1495 ERROR MAXIMO   3.007806E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1496 ERROR MAXIMO   2.966864E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1497 ERROR MAXIMO   2.905944E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1498 ERROR MAXIMO   2.857988E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1499 ERROR MAXIMO   2.794110E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1500 ERROR MAXIMO   2.752951E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1501 ERROR MAXIMO   2.706027E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1502 ERROR MAXIMO   2.667041E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1503 ERROR MAXIMO   2.605210E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1504 ERROR MAXIMO   2.563070E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1505 ERROR MAXIMO   2.512756E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1506 ERROR MAXIMO   2.473511E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1507 ERROR MAXIMO   2.438224E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1508 ERROR MAXIMO   2.389863E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1509 ERROR MAXIMO   2.344211E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1510 ERROR MAXIMO   2.300652E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1511 ERROR MAXIMO   2.250774E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1512 ERROR MAXIMO   2.210962E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1513 ERROR MAXIMO   2.170894E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1514 ERROR MAXIMO   2.142724E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1515 ERROR MAXIMO   2.099789E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1516 ERROR MAXIMO   2.070924E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1517 ERROR MAXIMO   2.027233E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1518 ERROR MAXIMO   1.990062E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1519 ERROR MAXIMO   1.949937E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1520 ERROR MAXIMO   1.911170E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1521 ERROR MAXIMO   1.868879E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1522 ERROR MAXIMO   1.849993E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1523 ERROR MAXIMO   1.814805E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1524 ERROR MAXIMO   1.775856E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1525 ERROR MAXIMO   1.744405E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1526 ERROR MAXIMO   1.722457E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1527 ERROR MAXIMO   1.671861E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1528 ERROR MAXIMO   1.646838E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1529 ERROR MAXIMO   1.616711E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1530 ERROR MAXIMO   1.599267E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1531 ERROR MAXIMO   1.572389E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1532 ERROR MAXIMO   1.538081E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1533 ERROR MAXIMO   1.514632E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1534 ERROR MAXIMO   1.482030E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1535 ERROR MAXIMO   1.459390E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1536 ERROR MAXIMO   1.432481E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1537 ERROR MAXIMO   1.417604E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1538 ERROR MAXIMO   1.388306E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1539 ERROR MAXIMO   1.370031E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1540 ERROR MAXIMO   1.332440E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1541 ERROR MAXIMO   1.303910E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1542 ERROR MAXIMO   1.290234E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1543 ERROR MAXIMO   1.269504E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1544 ERROR MAXIMO   1.250272E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1545 ERROR MAXIMO   1.224571E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1546 ERROR MAXIMO   1.209011E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1547 ERROR MAXIMO   1.189600E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1548 ERROR MAXIMO   1.157914E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1549 ERROR MAXIMO   1.128319E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1550 ERROR MAXIMO   1.112850E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1551 ERROR MAXIMO   1.094090E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1552 ERROR MAXIMO   1.074909E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1553 ERROR MAXIMO   1.067348E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1554 ERROR MAXIMO   1.037841E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1555 ERROR MAXIMO   1.016317E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1556 ERROR MAXIMO   1.001245E-10 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+ NUMERO DE NO CEROS EN LA MATRIZ=       241
+
+                         ITERACION NUMERO 1557 ERROR MAXIMO   9.797506E-11 (RELATIVO Y EN VALOR ABSOLUTO)
+                                LA VARIABLE CON ERRMAX ES W(  20)
+     EMPRESARIOS AGRUPADOS, A.I.E.                                                                             PAGINA     7
+                                                      **********************                           FECHA Sun Oct 31 2010
+  GHESA INGENIERIA Y TECNOLOGIA, S.A                  *      HBAL-05       *
+                                                      * ================== *
+  DEPARTAMENTO DE ANALISIS MECANICOS                  **********************
+  ==================================
+
+
+               C.N.LAGUNA VERDE  120% carga  T.A CIRC 28低                                    
+
+
+      CORR     CAUDAL         TEMPERATURA        PRESION       VOL ESPECIFICO      ENTALPIA         ENTROPIA          TITULO
+       NO     (KGS/SG)            (C)             (BARA)          (M**3/KG)        (KJ/KG)         (KJ/KG/C) 
+
+
+        1     1260.1340          286.1           70.3300           0.027202         2771.4           5.81095          0.9989
+        2     1260.1340          286.1           70.3300           0.027202         2771.4           5.81095          0.9989
+        3     1260.1340          281.7           65.8504           0.029167         2771.4           5.83360          0.9954
+        4     1193.0640          281.7           65.8504           0.029167         2771.4           5.83360          0.9954
+        5       67.0700          281.7           65.8504           0.029167         2771.4           5.83360          0.9954
+        6     1189.1340          281.7           65.8504           0.029167         2771.4           5.83360          0.9954
+        7        3.9300          281.7           65.8504           0.029167         2771.4           5.83360          0.9954
+        8        0.2000          228.9           27.4029           0.072623         2793.8           6.20269          0.9956
+        9     1189.3340          281.7           65.8504           0.029167         2771.4           5.83361          0.9954
+       10     1189.1240          281.7           65.8504           0.029167         2771.4           5.83360          0.9954
+       11        0.2100          284.9           65.8504           0.029809         2793.8           5.87382          1.0000
+       12     1189.1240          277.2           61.5477           0.031320         2771.4           5.85713          0.9924
+       13      594.2196          277.2           61.5477           0.031320         2771.4           5.85713          0.9924
+       14      594.9044          277.2           61.5477           0.031320         2771.4           5.85713          0.9924
+       15      594.9044          233.4           29.7482           0.061649         2651.4           5.88909          0.9160
+       16      594.2196          224.2           25.1142           0.072011         2624.3           5.89654          0.9038
+       19        0.2000          228.9           27.4029           0.072623         2793.8           6.20269          0.9956
+       20        1.2745          233.4           29.7482           0.001215         1006.1           2.64121          0.0000
+       21      593.6299          233.4           29.7482           0.061779         2654.9           5.89607          0.9179
+       22        1.4278          224.2           25.1142           0.001198          963.1           2.55653          0.0000
+       23      592.7917          224.2           25.1142           0.072182         2628.3           5.90458          0.9060
+       24      546.2969          233.4           29.7482           0.061779         2654.9           5.89607          0.9179
+       25       47.3330          233.4           29.7482           0.061779         2654.9           5.89607          0.9179
+       26      524.1482          224.2           25.1142           0.072182         2628.3           5.90458          0.9060
+       27       68.6435          224.2           25.1142           0.072182         2628.3           5.90458          0.9060
+       28      524.1482          193.8           13.6404           0.125932         2535.3           5.93527          0.8717
+       29      546.2969          193.8           13.6404           0.125933         2535.3           5.93530          0.8717
+       30     1070.4451          193.8           13.6404           0.125932         2535.3           5.93528          0.8717
+       31     1070.4451          193.8           13.6404           0.125932         2535.3           5.93528          0.8717
+     EMPRESARIOS AGRUPADOS, A.I.E.                                                                             PAGINA     8
+                                                      **********************                           FECHA Sun Oct 31 2010
+  GHESA INGENIERIA Y TECNOLOGIA, S.A                  *      HBAL-05       *
+                                                      * ================== *
+  DEPARTAMENTO DE ANALISIS MECANICOS                  **********************
+  ==================================
+
+
+               C.N.LAGUNA VERDE  120% carga  T.A CIRC 28低                                    
+
+
+
+
+
+                                        INFORMACION GENERAL DE ELEMENTOS DIVISORES NORMALES
+
+
+    EQUIPO        FLUJO DE        FLUJO DE        FLUJO DE        FACTOR DE        FACTOR DE        RELACION         RELACION 
+                  ENTRADA         SALIDA 1        SALIDA 2
+      NO          (KG/SG)         (KG/SG)         (KG/SG)          FLUJO 1          FLUJO 2         PRI/PRINC        SEC/PRINC
+    ======       ==========      ==========      ==========      ===========      ===========      ===========      ===========
+        3        1260.1340       1193.0640       67.070000        25.109173        1.4115523       0.94677550       0.53224498E-01
+        4        1193.0640       1189.1340       3.9300000        25.026462       0.82710608E-01   0.99670596       0.32940395E-02
+        8        1189.1240       594.21955       594.90445        13.404600        13.420050       0.49971202       0.50028798    
+       16        593.62991       546.29691       47.333000        24.895310        2.1570133       0.92026514       0.79734864E-01
+       17        592.79173       524.14823       68.643500        28.100170        3.6800544       0.88420301       0.11579699    
+     EMPRESARIOS AGRUPADOS, A.I.E.                                                                             PAGINA     9
+                                                      **********************                           FECHA Sun Oct 31 2010
+  GHESA INGENIERIA Y TECNOLOGIA, S.A                  *      HBAL-05       *
+                                                      * ================== *
+  DEPARTAMENTO DE ANALISIS MECANICOS                  **********************
+  ==================================
+
+
+               C.N.LAGUNA VERDE  120% carga  T.A CIRC 28低                                    
+
+
+
+
+
+                                    INFORMACION GENERAL DE TURBINAS DE VAPOR
+
+
+                                 ENTRADA                       SALIDA
+                      ----------------------------  ----------------------------
+   EQUIPO    FLUJO    PRESION  TEMPERAT  ENTALPIA   PRESION  TEMPERAT  ENTALPIA  RELACION  FACTOR DE  EFICIENCIA  POTENCIA
+     NO     (KGS/SG)   (BARA)    (C)      (KJ/KG)    (BARA)    (C)      (KJ/KG)  PENT/PSAL  FLUJO       (0/0)       (KW)
+
+
+      9     594.9044  61.5477    277.22   2771.44   29.7482    233.37   2651.36      2.069    13.4200    88.12      71434.9
+     10     594.2196  61.5477    277.22   2771.44   25.1142    224.19   2624.26      2.451    13.4046    88.25      87458.9
+     18     524.1482  25.1142    224.19   2628.26   13.6404    193.83   2535.26      1.841    28.1002    86.65      48743.3
+     19     546.2969  29.7482    233.37   2654.89   13.6404    193.83   2535.28      2.181    24.8953    86.72      65347.1
+                                                                                                                  ---------
+                                                                                                                   272984.1
+     EMPRESARIOS AGRUPADOS, A.I.E.                                                                             PAGINA    10
+                                                      **********************                           FECHA Sun Oct 31 2010
+  GHESA INGENIERIA Y TECNOLOGIA, S.A                  *      HBAL-05       *
+                                                      * ================== *
+  DEPARTAMENTO DE ANALISIS MECANICOS                  **********************
+  ==================================
+
+
+               C.N.LAGUNA VERDE  120% carga  T.A CIRC 28低                                    
+
+
+
+                LINEAS DE EXTRACCION DE TURBINA.-DIAGRAMA H-S.
+                ==============================================
+
+  2835.    ...............................................................................................................
+           .          .          .          .          .          .          .          .          .          .          .
+           .          .          .          .          .          .          .          .          .          .          .
+           .          .          .          .          .          .          .          .          .          .          .
+           .          .          .          .          .          .          .          .          .          .          .
+  2805.    ...............................................................................................................
+           .          .          .          .          .          .          .          .          .          .          .
+           .          .          .          .          .          .          .          .      *   .   *      .          .
+           .          .          .          .          .          .          .          *          .          .          .
+           .          .          .          .          .          .          .  *       .          .          .          .
+  2775.    .............................................................*.................................................
+           .          .          .          .          .         *.      +   .          .          .          .          .
+           .          .          .          .          . *        .          .          .          .          .          .
+           .          .          .          .    *     .          .          .          .          .          .          .
+           .          .          .        * .          .          .          .          .          .          .          .
+  2745.    ...............................................................................................................
+           .          .          .*         .          .          .          .          .          .          .          .
+           .          .   *      .          .          .          .          .          .          .          .          .
+           .          .          .          .          .          .          .          .          .          .          .
+           .       *  .          .          .          .          .          .          .          .          .          .
+  2715.    *..............................................................................................................
+           .          .          .          .          .          .          .          .          .          .          .
+           .          .          .          .          .          .          .          .          .          .          .
+           .          .          .          .          .          .          .          .          .          .          .
+           .          .          .          .          .          .          .          .          .          .          .
+  2685.    ...............................................................................................................
+           .          .          .          .          .          .          .          .          .          .          .
+           .          .          .          .          .          .          .          .          .          .          .
+           .          .          .          .          .          .          .          .          .          .          .
+           .          .          .          .          .          .          .          .          .          .          .
+  2655.    ......................................................................*........................................
+           .          .          .          .          .          .          .  *       .          .          .          .
+           .          .          .          .          .          .          .          .          .          .          .
+           .          .          .          .          .          .          .          .          .          .          .
+           .          .          .          .          .          .          .          .          .          .          .
+  2625.    ........................................................................*......................................
+           .          .          .          .          .          .          .   *      .          .          .          .
+           .          .          .          .          .          .          .          .          .          .          .
+           .          .          .          .          .          .          .          .          .          .          .
+           .          .          .          .          .          .          .          .          .          .          .
+  2595.    ...............................................................................................................
+           .          .          .          .          .          .          .          .          .          .          .
+           .          .          .          .          .          .          .          .          .          .          .
+           .          .          .          .          .          .          .          .          .          .          .
+           .          .          .          .          .          .          .          .          .          .          .
+  2565.    ...............................................................................................................
+           .          .          .          .          .          .          .          .          .          .          .
+           .          .          .          .          .          .          .          .          .          .          .
+           .          .          .          .          .          .          .          .          .          .          .
+           .          .          .          .          .          .          .          .          .          .          .
+  2535.    ...............................................................................+...............................
+
+        5.57500    5.62500    5.67500    5.72500    5.77500    5.82500    5.87500    5.92500    5.97500    6.02500    6.07500
+     EMPRESARIOS AGRUPADOS, A.I.E.                                                                             PAGINA    11
+                                                      **********************                           FECHA Sun Oct 31 2010
+  GHESA INGENIERIA Y TECNOLOGIA, S.A                  *      HBAL-05       *
+                                                      * ================== *
+  DEPARTAMENTO DE ANALISIS MECANICOS                  **********************
+  ==================================
+
+
+               C.N.LAGUNA VERDE  120% carga  T.A CIRC 28低                                    
+
+
+
+
+
+                                        INFORMACION GENERAL DE SEPARADORES DE HUMEDAD
+
+
+                            ENTRADA                         SALIDA VAPOR SECO              SALIDA DRENAJE
+          -------------------------------------------- ---------------------------- ---------------------------
+  EQUIPO    FLUJO    PRESION  TEMPER  ENTALPIA  TITULO    FLUJO    ENTALPIA  TITULO   FLUJO    ENTALPIA  TITULO  EFIC.  ARR.
+    NO      (KG/S)   (BAR A.)  (C)    (KJ/KG)             (KG/S)   (KJ/KG)            (KG/S)   (KJ/KG)           (0/0) (0/0)
+
+    14     594.9044    29.75  233.37   2651.36   0.916   593.6299   2654.89   0.918    1.2745   1006.15   0.000   2.55  0.00
+    15     594.2196    25.11  224.19   2624.26   0.904   592.7917   2628.26   0.906    1.4278    963.09   0.000   2.50  0.00
+     EMPRESARIOS AGRUPADOS, A.I.E.                                                                             PAGINA    12
+                                                      **********************                           FECHA Sun Oct 31 2010
+  GHESA INGENIERIA Y TECNOLOGIA, S.A                  *      HBAL-05       *
+                                                      * ================== *
+  DEPARTAMENTO DE ANALISIS MECANICOS                  **********************
+  ==================================
+
+
+               C.N.LAGUNA VERDE  120% carga  T.A CIRC 28低                                    
+
+

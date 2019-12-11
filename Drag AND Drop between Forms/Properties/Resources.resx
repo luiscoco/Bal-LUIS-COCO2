@@ -1,0 +1,478 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="Cursor" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Cursor.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Datos Entrada Turbina Tipo 91" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Datos Entrada Turbina Tipo 91.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Datos de Entrada MSR Tipo 14" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Datos de Entrada MSR Tipo 14.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ecuaciones1 Separador Humedad Tipo 13" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ecuaciones1 Separador Humedad Tipo 13.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Newton_iteration" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Newton_iteration.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Newton_iteration4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Newton_iteration4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Bomba" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Bomba.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Datos Entrada Turbina Auxiliar Tipo 11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Datos Entrada Turbina Auxiliar Tipo 11.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ecuaciones Divisor Entalpia Fija Tipo 20" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ecuaciones Divisor Entalpia Fija Tipo 20.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Imagen Balance Energía2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Imagen Balance Energía2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TurbinaDibujo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TurbinaDibujo.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Turbina3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Turbina3.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Condensador" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Condensador.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Mezclador" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Mezclador.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Datos Entrada Bomba Tipo 4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Datos Entrada Bomba Tipo 4.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Tube-side_copy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Tube-side_copy.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Valvula" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Valvula.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Broyden2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Broyden2.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Factor Iteraciones" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Factor Iteraciones.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Datos1 Entrada Calentador Tipo 7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Datos1 Entrada Calentador Tipo 7.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Datos1 Entrada Turbina Tipo 9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Datos1 Entrada Turbina Tipo 9.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Newton Raphson11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Newton Raphson11.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Datos1 Entrada Condensador Tipo 8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Datos1 Entrada Condensador Tipo 8.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ecuaciones Divisor Tipo 2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ecuaciones Divisor Tipo 2.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Mezclador11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Mezclador11.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Turbina Tipo 9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Turbina Tipo 9.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Datos Entrada Condensador Tipo 15" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Datos Entrada Condensador Tipo 15.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Turbina Tipo 10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Turbina Tipo 10.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ecuacioines Desaireador Tipo 18" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ecuacioines Desaireador Tipo 18.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ecuaciones Perdida Carga Tipo 3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ecuaciones Perdida Carga Tipo 3.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Newton_iteration2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Newton_iteration2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ecuaciones Caldera Tipo 6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ecuaciones Caldera Tipo 6.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Caldera Tipo 6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Caldera Tipo 6.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Turbina1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Turbina1.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Broyden1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Broyden1.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Turbinaboton" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Turbinaboton.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ecuaciones Turbina Tipo 91" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ecuaciones Turbina Tipo 91.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="300px-NewtonIteration_Ani1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\300px-NewtonIteration_Ani1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Bomba Tipo 4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Bomba Tipo 4.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ecuaciones CondContorno Tipo 1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ecuaciones CondContorno Tipo 1.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Cursor1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Cursor1.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Perdida Carga Tipo 3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Perdida Carga Tipo 3.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Perdidacarga1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Perdidacarga1.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Conexionsalida" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Conexionsalida.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Newtonaa" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Newtonaa.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Datos de Entrada Separador Humedad Tipo 13" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Datos de Entrada Separador Humedad Tipo 13.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ecuaciones Turbina Tipo 9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ecuaciones Turbina Tipo 9.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ecuaciones Condensador Tipo 15" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ecuaciones Condensador Tipo 15.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Datos Entrada Valvula Control Tipo 19" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Datos Entrada Valvula Control Tipo 19.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Heat_exchanger_Segmented" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Heat_exchanger_Segmented.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ecuaciones Calentador Tipo 7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ecuaciones Calentador Tipo 7.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Divisor Entalpia Fija Tipo 20" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Divisor Entalpia Fija Tipo 20.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Valvula Control Tipo 19" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Valvula Control Tipo 19.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="300px-NewtonIteration_Ani" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\300px-NewtonIteration_Ani.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Condensador1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Condensador1.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Newton Raphson1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Newton Raphson1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ecuaciones Condensador Tipo 81" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ecuaciones Condensador Tipo 81.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Turbina Auxiliar Tipo 11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Turbina Auxiliar Tipo 11.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Calentador" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Calentador.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Datos1 Entrada Turbina Tipo 91" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Datos1 Entrada Turbina Tipo 91.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NewtonIteration1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NewtonIteration1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Shell-side" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Shell-side.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ecuaciones Condensador Tipo 8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ecuaciones Condensador Tipo 8.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SepHumedad" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\SepHumedad.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Datos Entrada Desaireador Tipo 18" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Datos Entrada Desaireador Tipo 18.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NewtonIteration3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NewtonIteration3.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MSR1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MSR1.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Datos1 de Entrada MSR Tipo 14" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Datos1 de Entrada MSR Tipo 14.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Datos Entrada Condensador Tipo 8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Datos Entrada Condensador Tipo 8.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ecuaciones Tanque Vaporización Instantanea Tipo 21" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ecuaciones Tanque Vaporización Instantanea Tipo 21.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Sumidero" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sumidero.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ecuaciones1 MSR Tipo 14" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ecuaciones1 MSR Tipo 14.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Datos Entrada Turbina Tipo 10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Datos Entrada Turbina Tipo 10.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Datos Entrada CondContorno Tipo 1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Datos Entrada CondContorno Tipo 1.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Datos Entrada Turbina Tipo 9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Datos Entrada Turbina Tipo 9.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NewtonIteration5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NewtonIteration5.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ecuaciones Valvula Tipo 19" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ecuaciones Valvula Tipo 19.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Calentador1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Calentador1.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Divisor1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Divisor1.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Separador de Humedad Tipo 13" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Separador de Humedad Tipo 13.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ecuaciones Bomba Tipo 4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ecuaciones Bomba Tipo 4.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Mezclador Tipo 5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Mezclador Tipo 5.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Datos Entrada Tanque Vaporización Instantanea Tipo 21" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Datos Entrada Tanque Vaporización Instantanea Tipo 21.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ecuaciones Turbina Tipo 10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ecuaciones Turbina Tipo 10.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Perdidacarga" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Perdidacarga.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ecuaciones Mezclador Tipo 5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ecuaciones Mezclador Tipo 5.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Fuente" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Fuente.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Broyden3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Broyden3.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Condensador Tipo 8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Condensador Tipo 8.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Datos Entrada Divisor Entalpia Fija Tipo 20" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Datos Entrada Divisor Entalpia Fija Tipo 20.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ecuaciones Turbina Auxiliar Tipo 11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ecuaciones Turbina Auxiliar Tipo 11.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ecuaciones Separador Humedad Tipo 13" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ecuaciones Separador Humedad Tipo 13.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Divisor" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Divisor.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WATER DROP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\WATER DROP.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Divisor Tipo 2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Divisor Tipo 2.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Desaireador Tipo 18" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Desaireador Tipo 18.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Imagen Balance Energía1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Imagen Balance Energía1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Sephumedad1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sephumedad1.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Tanque Vaporización Instantanea Tipo 21" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Tanque Vaporización Instantanea Tipo 21.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Imagen Balance Energía" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Imagen Balance Energía.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Condensador Tipo 15" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Condensador Tipo 15.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ecuaciones MSR Tipo 14" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ecuaciones MSR Tipo 14.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MSR Tipo 14" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MSR Tipo 14.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Datos Entrada Perdida Carga Tipo 3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Datos Entrada Perdida Carga Tipo 3.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Condicion Contorno Tipo 1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Condicion Contorno Tipo 1.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Datos Entrada Divisor Tipo 2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Datos Entrada Divisor Tipo 2.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Datos Entrada Calentador Tipo 7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Datos Entrada Calentador Tipo 7.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Conexionentrada" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Conexionentrada.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Datos Entrada Mezclador Tipo 5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Datos Entrada Mezclador Tipo 5.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MSR" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MSR.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icono Turbina" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Icono Turbina.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Error Maximo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Error Maximo.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Datos Entrada Caldera Tipo 6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Datos Entrada Caldera Tipo 6.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Desgasificador" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Desgasificador.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Calentador Tipo 7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Calentador Tipo 7.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NewtonIteration2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NewtonIteration2.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Mezclador1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Mezclador1.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Mezclador12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Mezclador12.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Counter-current_profile" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Counter-current_profile.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>

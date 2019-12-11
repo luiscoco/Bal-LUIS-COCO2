@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<VSPerformanceSession Version="1.00">
+  <Options>
+    <Solution>C:\Users\luis\Desktop\Luis Coco Heat Balances\Luis Coco Heat Balances\Programa Balances Térmicos LUIS COCO\Luis Coco Heat Balances.sln</Solution>
+    <CollectionMethod>Instrumentation</CollectionMethod>
+    <AllocationMethod>None</AllocationMethod>
+    <LaunchRuntimeControl>true</LaunchRuntimeControl>
+    <AddReport>true</AddReport>
+    <ResourceBasedAnalysisSelected>false</ResourceBasedAnalysisSelected>
+    <ThreadBasedAnalysisSelected>false</ThreadBasedAnalysisSelected>
+    <UniqueReport>Timestamp</UniqueReport>
+    <SamplingMethod>Cycles</SamplingMethod>
+    <CycleCount>10000000</CycleCount>
+    <PageFaultCount>10</PageFaultCount>
+    <SysCallCount>10</SysCallCount>
+    <SamplingCounter Name="" ReloadValue="00000000000f4240" DisplayName="" />
+    <RelocateBinaries>false</RelocateBinaries>
+    <CollectOnHpcCluster>false</CollectOnHpcCluster>
+    <HPCSettings>
+      <NumberOfProcesses>0</NumberOfProcesses>
+      <TargetSelection>UnknownDisabled</TargetSelection>
+      <ProfileOnRank>0</ProfileOnRank>
+      <AdvancedProperties>
+        <Project>Drag AND Drop between Forms</Project>
+        <CleanUp>true</CleanUp>
+        <MpiexecCommand>mpiexec.exe</MpiexecCommand>
+        <DeployCRT>true</DeployCRT>
+      </AdvancedProperties>
+    </HPCSettings>
+    <HardwareCounters EnableHWCounters="false" />
+    <EtwSettings />
+    <PdhSettings>
+      <PdhCountersEnabled>false</PdhCountersEnabled>
+      <PdhCountersRate>500</PdhCountersRate>
+      <PdhCounters>
+        <PdhCounter>\Disco físico(_Total)\Longitud promedio de la cola de disco</PdhCounter>
+        <PdhCounter>\Memoria\Páginas/s</PdhCounter>
+        <PdhCounter>\Procesador(_Total)\% de tiempo de procesador</PdhCounter>
+      </PdhCounters>
+    </PdhSettings>
+  </Options>
+  <ExcludeSmallFuncs>true</ExcludeSmallFuncs>
+  <JScriptProfilingEnabled>false</JScriptProfilingEnabled>
+  <PreinstrumentEvent>
+    <InstrEventExclude>false</InstrEventExclude>
+  </PreinstrumentEvent>
+  <PostinstrumentEvent>
+    <InstrEventExclude>false</InstrEventExclude>
+  </PostinstrumentEvent>
+  <Binaries>
+    <ProjBinary>
+      <Path>C:\Users\luis\Desktop\Luis Coco Heat Balances\Luis Coco Heat Balances\Programa Balances Térmicos LUIS COCO\Drag AND Drop between Forms\obj\x86\Debug\Drag AND Drop between Forms.exe</Path>
+      <ArgumentTimestamp>01/01/0001 00:00:00</ArgumentTimestamp>
+      <Instrument>true</Instrument>
+      <Sample>true</Sample>
+      <ExternalWebsite>false</ExternalWebsite>
+      <InteractionProfilingEnabled>false</InteractionProfilingEnabled>
+      <IsLocalJavascript>false</IsLocalJavascript>
+      <LaunchProject>true</LaunchProject>
+      <OverrideProjectSettings>false</OverrideProjectSettings>
+      <LaunchMethod>Executable</LaunchMethod>
+      <ExecutablePath>C:\Users\luis\Desktop\Luis Coco Heat Balances\Luis Coco Heat Balances\Programa Balances Térmicos LUIS COCO\Drag AND Drop between Forms\bin\Debug\Drag AND Drop between Forms.exe</ExecutablePath>
+      <StartupDirectory>C:\Users\luis\Desktop\Luis Coco Heat Balances\Luis Coco Heat Balances\Programa Balances Térmicos LUIS COCO\Drag AND Drop between Forms\bin\Debug\</StartupDirectory>
+      <Arguments />
+      <NetAppHost>IIS</NetAppHost>
+      <NetBrowser>InternetExplorer</NetBrowser>
+      <ExcludeSmallFuncs>true</ExcludeSmallFuncs>
+      <JScriptProfilingEnabled>false</JScriptProfilingEnabled>
+      <PreinstrumentEvent>
+        <InstrEventExclude>false</InstrEventExclude>
+      </PreinstrumentEvent>
+      <PostinstrumentEvent>
+        <InstrEventExclude>false</InstrEventExclude>
+      </PostinstrumentEvent>
+      <ProjRef>{2F4AE5AC-70B1-4F2D-8739-540E51E512B9}|Drag AND Drop between Forms\Drag AND Drop between Forms.csproj</ProjRef>
+      <ProjPath>C:\Users\luis\Desktop\Luis Coco Heat Balances\Luis Coco Heat Balances\Programa Balances Térmicos LUIS COCO\Drag AND Drop between Forms\Drag AND Drop between Forms.csproj</ProjPath>
+      <ProjName>Drag AND Drop between Forms</ProjName>
+    </ProjBinary>
+  </Binaries>
+  <Reports>
+    <Report>
+      <Path>C:\Users\luis\Desktop\Luis Coco Heat Balances\Luis Coco Heat Balances\Programa Balances Térmicos LUIS COCO\Drag AND Drop between Forms110220.vsp</Path>
+    </Report>
+  </Reports>
+  <Launches>
+    <ProjBinary>
+      <Path>:PB:{2F4AE5AC-70B1-4F2D-8739-540E51E512B9}|Drag AND Drop between Forms\Drag AND Drop between Forms.csproj</Path>
+    </ProjBinary>
+  </Launches>
+  <RuntimeMarks>
+    <MarkName>Marca uno</MarkName>
+    <MarkName>Marca dos</MarkName>
+    <MarkName>Marca tres</MarkName>
+    <MarkName>Marca cuatro</MarkName>
+    <MarkName>Marca cinco</MarkName>
+    <MarkName>Marca seis</MarkName>
+    <MarkName>Marca siete</MarkName>
+    <MarkName>Marca ocho</MarkName>
+    <MarkName>Marca nueve</MarkName>
+    <MarkName>Marca diez</MarkName>
+  </RuntimeMarks>
+</VSPerformanceSession>

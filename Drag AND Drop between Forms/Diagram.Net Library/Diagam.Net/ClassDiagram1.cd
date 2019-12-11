@@ -1,0 +1,731 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Dalssoft.DiagramNet.Designer" Collapsed="true">
+    <Position X="91.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BRSElIAUFKDYZgGAYEKsACSLEhJJE5eyoBDAQClDAAw=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Designer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.DiagramUtil" Collapsed="true">
+    <Position X="93.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IUAAAAAUAAAIAAAAACAAAAAQAAIAAAAAAAAAIAACAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\DiagramUtil.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.Document" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="88" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BYDmBACMQLQBoFAAMsKQAZkTxBISEUQGUgAEZAKAAiY=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Document.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.ElementCollection" Collapsed="true">
+    <Position X="91.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEIAAECAAGAAIAAACKAgBMACAQAAAACAAAAEAABQAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\ElementCollection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.EditLabelAction" Collapsed="true">
+    <Position X="89.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAgAAAAAAAgAIAAAAACAAAAAAABQABAACAAAABCAAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\actions\EditLabelAction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.MoveAction" Collapsed="true">
+    <Position X="91.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAKEAAAEAAAgAAAAAAAICAAFAAAABAAABAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\actions\MoveAction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.ResizeAction" Collapsed="true">
+    <Position X="88" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIBBAAAACAAAAAAAAAACAQAAAIIACAAAAACQAECAQA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\actions\ResizeAction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.BaseElement" Collapsed="true">
+    <Position X="45" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAEEIBAAggAAAIIIAEACAABAEAAIAAAgCAAAABA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\BaseElement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.BaseLinkElement" Collapsed="true">
+    <Position X="84.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABBAIIQAAiAEQAAIBAABAAAAAYAACAWAAAAAAAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\BaseLinkElement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.CommentBoxElement" Collapsed="true">
+    <Position X="38.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAggEAAAIAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\CommentBoxElement.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.ConnectorElement" Collapsed="true">
+    <Position X="42.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAIgAEEIAIAAgAAAAAIAAAAKAAAAAAAAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\ConnectorElement.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.CommentBoxController" Collapsed="true">
+    <Position X="9.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\controllers\CommentBoxController.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.ConnectorController" Collapsed="true">
+    <Position X="13.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\controllers\ConnectorController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.ControllerHelper" Collapsed="true">
+    <Position X="89.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAABAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\controllers\ControllerHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.ArcoResultadosController" Collapsed="true">
+    <Position X="22.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\controllers\elementResultsControllers\ArcoResultadosController.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.BombaResultadosController" Collapsed="true">
+    <Position X="27.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\controllers\elementResultsControllers\BombaResultadosController.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.CalentadorResultadosController" Collapsed="true">
+    <Position X="31.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\controllers\elementResultsControllers\CalentadorResultadosController.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.CirculoResultadosController" Collapsed="true">
+    <Position X="36.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\controllers\elementResultsControllers\CirculoResultadosController.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.CondensadorResultadosController" Collapsed="true">
+    <Position X="40.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\controllers\elementResultsControllers\CondensadorResultadosController.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.CondensadorSellosResultadosController" Collapsed="true">
+    <Position X="2.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\controllers\elementResultsControllers\CondensadorSellosResultadosController.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.DesaireadorResultadosController" Collapsed="true">
+    <Position X="7" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\controllers\elementResultsControllers\DesaireadorResultadosController.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.GeneradorResultadosController" Collapsed="true">
+    <Position X="11.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\controllers\elementResultsControllers\GeneradorResultadosController.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.RectanguloRedondeadoResultadosController" Collapsed="true">
+    <Position X="16" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\controllers\elementResultsControllers\RectanguloRedondeadoResultadosController.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.RectanguloResultadosController" Collapsed="true">
+    <Position X="20.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\controllers\elementResultsControllers\RectanguloResultadosController.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.SeparadorHumedadResultadosController" Collapsed="true">
+    <Position X="25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\controllers\elementResultsControllers\SeparadorHumedadResultadosController.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.TurbinaResultadosAltaController" Collapsed="true">
+    <Position X="29.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\controllers\elementResultsControllers\TurbinaResultadosAltaController.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.TurbinaResultadosController" Collapsed="true">
+    <Position X="34" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\controllers\elementResultsControllers\TurbinaResultadosController.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.ValvulaResultadosController" Collapsed="true">
+    <Position X="38.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\controllers\elementResultsControllers\ValvulaResultadosController.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.ElipseController" Collapsed="true">
+    <Position X="43" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\controllers\ElipseController.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.ImageController" Collapsed="true">
+    <Position X="18.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIABAAAAAAAAAAAAAEAAAABAAAAAAAQAAAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\controllers\ImageController.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.LineController" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="89.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAABAAAAAAAAAAAAAAAAAAAAAAAAAAQAACAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\controllers\LineController.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.RectangleController" Collapsed="true">
+    <Position X="22.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAgAEgIAAFgIAQAACAAEEAAAAEAEAAQAAAQATgACAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\controllers\RectangleController.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.RectangleController1" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="93.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAgAEgIAAFgIAQAACAAEEAAAAEAEAAQAAAQATgACAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\controllers\RectangleController1.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.RightAngleLinkController" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="89.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAgAEgIAAFgIAQgACgAEEAAAAEAEAAQAAAQATgACAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\controllers\RightAngleLinkController.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.TurbinaController" Collapsed="true">
+    <Position X="4.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\controllers\TurbinaController.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.ArcoElementResultados" Collapsed="true">
+    <Position X="45" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgEAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\elementsResults\ArcoElementResultados.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.BombaElementResultados" Collapsed="true">
+    <Position X="49.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgEAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\elementsResults\BombaElementResultados.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.CalentadorElementResultados" Collapsed="true">
+    <Position X="54" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgEAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\elementsResults\CalentadorElementResultados.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.CirculoElementResultados" Collapsed="true">
+    <Position X="58.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgEAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\elementsResults\CirculoElementResultados.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.CondensadorElementResultados" Collapsed="true">
+    <Position X="63" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgEAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\elementsResults\CondensadorElementResultados.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.CondensadorSellosElementResultados" Collapsed="true">
+    <Position X="67.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgEAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\elementsResults\CondensadorSellosElementResultados.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.DesaireadorElementResultados" Collapsed="true">
+    <Position X="69.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgEAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\elementsResults\DesaireadorElementResultados.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.BombaResultadoNode" Collapsed="true">
+    <Position X="29.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAEAAAEAQIghEAAAIAAgDCAABAAAAIAAAAEAAAAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\elementsResults\elementResultsNodes\BombaResultadosNode.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.CalentadorResultadoNode" Collapsed="true">
+    <Position X="33.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAEAQIghEAAAIAAgDCQABAAAAIAAAAEAAAAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\elementsResults\elementResultsNodes\CalentadorResultadosNode.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.CondensadorResultadoNode" Collapsed="true">
+    <Position X="9" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAEAQIglEAAAIAAgDCAABAAAAIAAAAEAAAAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\elementsResults\elementResultsNodes\CondensadorResultadosNode.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.CondensadorSellosResultadoNode" Collapsed="true">
+    <Position X="11.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAEAQIghEgAAIAAgDCAABAAAAIAAAAEAAAAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\elementsResults\elementResultsNodes\CondensadorSellosResultadosNode.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.DesaireadorResultadoNode" Collapsed="true">
+    <Position X="13.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAEAQIghEAAAIAAgDCAABAAAAIAAAAEAAQAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\elementsResults\elementResultsNodes\DesaireadorResultadosNode.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.SeparadorHumedadResultadoNode" Collapsed="true">
+    <Position X="15.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAEAQIghEAgAIAAgDCAABAAAAIAAAAEAAAAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\elementsResults\elementResultsNodes\SeparadorHumedadResultadosNode.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.TurbinaAltaResultadoNode" Collapsed="true">
+    <Position X="18" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAEAQIghEAAAIAAgDCAABAAAAIAAAAEAAAAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\elementsResults\elementResultsNodes\TurbinaAltaResultadosNode.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.TurbinaResultadoNode" Collapsed="true">
+    <Position X="22.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAEAQIghEAAAIAAgDCAABAAAAIAAAAEAAAAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\elementsResults\elementResultsNodes\TurbinaResultadosNode.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.ValvulaResultadoNode" Collapsed="true">
+    <Position X="24.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAEAQIghEAAAIAAgDCAABAAAAIAAAAEgAAAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\elementsResults\elementResultsNodes\ValvulaResultadosNode.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.GeneradorElementResultados" Collapsed="true">
+    <Position X="72" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgEAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\elementsResults\GeneradorElementResultados.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.LineaElementResultados" Collapsed="true">
+    <Position X="76.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgEAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\elementsResults\LineaElementResultados.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.RectanguloElementResultados" Collapsed="true">
+    <Position X="78.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgEAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\elementsResults\RectánguloElementResultados.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.RectanguloRedondeadoElementResultados" Collapsed="true">
+    <Position X="40.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgEAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\elementsResults\RectanguloRedondeadoElementResultados.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.SeparadorHumedadElementResultados" Collapsed="true">
+    <Position X="47.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgEAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\elementsResults\SeparadorHumedadElementResultados.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.TurbinaElementAltaResultados" Collapsed="true">
+    <Position X="51.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgEAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\elementsResults\TurbinaElementAltaResultados.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.TurbinaElementResultados" Collapsed="true">
+    <Position X="56.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgEAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\elementsResults\TurbinaElementResultados.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.ValvulaElementResultados" Collapsed="true">
+    <Position X="60.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgEAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\elementsResults\ValvulaElementResultados.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.ElipseElement" Collapsed="true">
+    <Position X="65.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgEAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\ElipseElement.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.ElipseNode" Collapsed="true">
+    <Position X="27" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAEAQIghEAAAIAAgDCAABAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\ElipseNode.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.ImageElement" Collapsed="true">
+    <Position X="81" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAIAAAAgEAgAAAAgAAEAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\ImageElement.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.ImageNode" Collapsed="true">
+    <Position X="36" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAEAQIghEAAAIAAgACAABAABAIAAAAEAAAIAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\ImagenNode.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.LabelElement" Collapsed="true">
+    <Position X="4.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAYiIgAAIiDAggEAACAACgIgABiCBAAIAAgICsACDAI=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\LabelElement.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.LineElement" Collapsed="true">
+    <Position X="6.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACIAAAAigEAAAAAAgBAAAAAQAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\LineElement.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.NodeElement" Collapsed="true">
+    <Position X="22.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YAAAAEAEAAAAggBgAAIAQCAAEAAAAAAJAAAAAACAAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\NodeElement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.RectangleElement" Collapsed="true">
+    <Position X="58.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAMAAAghEAAAIAAgDAAAAAAAAAAAAgAADAAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\RectangleElement.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.RectangleNode" Collapsed="true">
+    <Position X="20.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAEAQIghEAAAIAAiDCAABAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\RectangleNode.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.RightAngleLinkElement" Collapsed="true">
+    <Position X="83.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AoABFBAIEQAAohEQAAIAAgACFIJIQCACAAAAAAAIAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\RightAngleLinkElement.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.StraightLinkElement" Collapsed="true">
+    <Position X="85.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAFBAIEAAAghEAAAIIAgACAABAQAACAAAAIAAAAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\StraightLinkElement.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.TurbinaElement" Collapsed="true">
+    <Position X="74.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgEAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\TurbinaElement.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.TurbinaNode" Collapsed="true">
+    <Position X="31.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAEAQIghEAAAIAAgDCAABAAAAIAAAAEAAAAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\TurbinaNode.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.ElementConnectEventArgs" Collapsed="true">
+    <Position X="93.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAEQAAgAAAAIAAAAAAAAAAAQAAAAEA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\events\ElementConnectEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.ElementEventArgs" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAgAAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\events\ElementEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.ElementMouseEventArgs" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAABgAAAAYAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\events\ElementMouseEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.ElementSelectionEventArgs" Collapsed="true">
+    <Position X="88" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAEAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\events\ElementSelectionEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dalssoft.DiagramNet.UndoManager" Collapsed="true">
+    <Position X="91.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAgAABEAABIAAAAKAAgAHAAAAAgAAAUAAAAEAQAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\UndoManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Arrows.ArrowRenderer" Collapsed="true">
+    <Position X="88" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABJAUAASAAAAUAAAAEAAAAAAEAAAABAQAAIAAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\Arrow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Arrows.Vector" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="93.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gQIAQAABAAAAAAAE6AEDAABAQQAAAJAAAAIMAAAAYjE=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\Vector.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Interface Name="Dalssoft.DiagramNet.IControllable" Collapsed="true">
+    <Position X="89.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\controllers\IControllable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Dalssoft.DiagramNet.IController" Collapsed="true">
+    <Position X="1.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAABAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\controllers\IController.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Dalssoft.DiagramNet.ILabelController" Collapsed="true">
+    <Position X="91.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\controllers\ILabelController.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Dalssoft.DiagramNet.IMoveController" Collapsed="true">
+    <Position X="0.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAACAAAKAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\controllers\IMoveController.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Dalssoft.DiagramNet.IResizeController" Collapsed="true">
+    <Position X="2.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAACAAAAAAAAAAAEIAABAAAAAAAAAAIAEAAQA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\controllers\IResizeController.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Dalssoft.DiagramNet.ILabelElement" Collapsed="true">
+    <Position X="93.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\ILabelElement.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Dalssoft.DiagramNet.IContainer" Collapsed="true">
+    <Position X="88" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\IContainer.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Dalssoft.DiagramNet.DesignerAction" Collapsed="true">
+    <Position X="93.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\Equipments Drawings\actions\DesignerAction.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Dalssoft.DiagramNet.OpcionDibujo" Collapsed="true">
+    <Position X="93.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\GeneralEnums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Dalssoft.DiagramNet.CornerPosition" Collapsed="true">
+    <Position X="89.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AiAAAgAIAAAAABAAACAAAQAAAAAAAAAAAAAACAgAAGA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\GeneralEnums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Dalssoft.DiagramNet.CornerPositionforlines" Collapsed="true">
+    <Position X="91.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AiAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\GeneralEnums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Dalssoft.DiagramNet.CardinalDirection" Collapsed="true">
+    <Position X="88" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACCAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAABAAQ=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\GeneralEnums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Dalssoft.DiagramNet.Orientation" Collapsed="true">
+    <Position X="88" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\GeneralEnums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Dalssoft.DiagramNet.ElementType" Collapsed="true">
+    <Position X="88" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>hAAACAoiEgAAAAEAAAEAQgCAAmAggBGAAAAAAAAgCAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\GeneralEnums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Dalssoft.DiagramNet.LinkType" Collapsed="true">
+    <Position X="91.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\GeneralEnums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Dalssoft.DiagramNet.LabelEditDirection" Collapsed="true">
+    <Position X="89.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Diagram.Net Library\Diagam.Net\Codigo\GeneralEnums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

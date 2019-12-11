@@ -1,0 +1,23 @@
+DOSShell-1
+3
+Balances Térmicos
+Fluidos Incompresibles
+Fluidos Compresible
+COMP2 (COMPRESIBLE FLUIDS)
+C:\Programas EMPRESARIOS AGRUPADOS\Comp2\COMP2.EXE
+
+
+COMP2
+2
+PRE SBAL
+C:\Programas EMPRESARIOS AGRUPADOS\sbal\PSBEC.EXE
+
+
+PRE SBAL
+1
+SPF
+C:\Programas EMPRESARIOS AGRUPADOS\spf\SPF.EXE
+
+
+SPF
+1

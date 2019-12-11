@@ -1,0 +1,32 @@
+What's new (+) and enhanced (!) in DOSShell 1.7 released on June 10, 2010 (comparing to v1.6)?
+
+[+] Added an option for hiding the DOSBox status window (console). This setting is disabled by default.
+[!] Ensured compatibility with the latest DOSBox v0.74.
+[!] Improved database saving when no changes were made.
+[!] Added version information into the product installer.
+[!] Added the confirmation before deleting an entry.
+
+
+History of Changes
+-----------------------------------
+
+1.6 (January 18, 2010)
+[!] Fixed the problem with an ellipsis character in some menu captions.
+[!] Changed the main icon of application.
+[!] Revised the readme documentation. Thanks a lot to William Yates!
+[!] Redesigned the About and Add/Edit Entry dialog windows.
+[!] Now the settings, database and temporary files are being stored in the user application data folder. It solves the problem of running installable version on NT Windows systems from a non-admin user account.
+[+] An ability of auto-closing the DOSBox emulator at the end of program's execution.
+[+] An option of running all applications in the fullscreen mode.
+[+] Now you can specify command-line parameters for each entry in the application list.
+[!] A few internal improvements.
+
+1.5 (November 1, 2009)
+[!] Enhanced compatibility with the latest Windows versions, Vista and Seven.
+[!] Removed the Help button from the Add/Edit Entry window and from the Preferences dialog: there is no budget to build a complete help file in the nearest time.
+[!] Improved bahaviour of the standard program messages.
+[+] Status bar now shows the long version of hint message.
+[!] Corrected a few typos in the various text labels.
+[!] Added support for the latest DOSBox version 0.73. It doesn't store .conf in the installation dir anymore, so DOSShell learned detecting an actual path in the user directory.
+[+] Added a feature of renaming the current group.
+[+] Now you can delete a group with all its contents.
